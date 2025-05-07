@@ -1,0 +1,13 @@
+
+> dev
+> vite
+
+
+  VITE v6.3.4  ready in 170 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+8:59:37 PM [vite] vite.config.js changed, restarting server...
+8:59:37 PM [vite] wsServer.on is not a function
+8:59:37 PM [vite] server restart failed
