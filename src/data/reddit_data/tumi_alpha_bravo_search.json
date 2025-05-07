@@ -1,0 +1,1995 @@
+{
+  "name": "Tumi Alpha Bravo Search",
+  "imageThreads": [
+    {
+      "image": "https://preview.redd.it/thdezyml82lc1.jpg?width=1536&format=pjpg&auto=webp&s=0ed411fb150a74249832b51d09187511d8f33a27",
+      "thread": {
+        "title": "I trained Custom Lora on Tumi backpacks using photos from Tumi's website. It should also work with other e-commerce products. I'll share the tutorial soon! (Lora SDLX download link in description)",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1b13kjg/i_trained_custom_lora_on_tumi_backpacks_using/",
+        "selftext": "",
+        "author": "ComprehensiveHand515",
+        "score": 29,
+        "numComments": 15,
+        "created": 1709010185,
+        "comments": [
+          {
+            "author": "protector111",
+            "body": "Now please Make pikachu wear it.",
+            "score": 3,
+            "created": 1709039485,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "I'll need to make Pikachu successfully wear any backpack first!",
+                "score": 3,
+                "created": 1709095150
+              }
+            ]
+          },
+          {
+            "author": "SlavaSobov",
+            "body": "Great work! \n\nThis is Tumi. Tuuuuuumiiiii! https://youtu.be/DT2tejY1HXk?si=0QnbyJl2J4-cif9P",
+            "score": 2,
+            "created": 1709154897,
+            "replies": []
+          },
+          {
+            "author": "MichaelForeston",
+            "body": "Awesome, make a tutorial bro!",
+            "score": 2,
+            "created": 1709014297,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, will post in next few days!",
+                "score": 9,
+                "created": 1709015366
+              }
+            ]
+          },
+          {
+            "author": "voltisvolt",
+            "body": "Hi, did you ever post the tutorial for this? Looks awesome",
+            "score": 1,
+            "created": 1712964748,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, it's here: [https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial](https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial)",
+                "score": 1,
+                "created": 1713046914
+              }
+            ]
+          },
+          {
+            "author": "[deleted]",
+            "body": "how many images did it take?",
+            "score": 1,
+            "created": 1709010329,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Hi, I use 17 images look like this:\n\nhttps://preview.redd.it/y4spmzoj92lc1.png?width=1767&amp;format=png&amp;auto=webp&amp;s=fb103b3b72f2c31943a2db6ea41ece11196a613d",
+                "score": 5,
+                "created": 1709010474
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/38li2yml82lc1.jpg?width=1536&format=pjpg&auto=webp&s=88f486e40290a60897f802a4143c58be11831205",
+      "thread": {
+        "title": "I trained Custom Lora on Tumi backpacks using photos from Tumi's website. It should also work with other e-commerce products. I'll share the tutorial soon! (Lora SDLX download link in description)",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1b13kjg/i_trained_custom_lora_on_tumi_backpacks_using/",
+        "selftext": "",
+        "author": "ComprehensiveHand515",
+        "score": 29,
+        "numComments": 15,
+        "created": 1709010185,
+        "comments": [
+          {
+            "author": "protector111",
+            "body": "Now please Make pikachu wear it.",
+            "score": 3,
+            "created": 1709039485,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "I'll need to make Pikachu successfully wear any backpack first!",
+                "score": 3,
+                "created": 1709095150
+              }
+            ]
+          },
+          {
+            "author": "SlavaSobov",
+            "body": "Great work! \n\nThis is Tumi. Tuuuuuumiiiii! https://youtu.be/DT2tejY1HXk?si=0QnbyJl2J4-cif9P",
+            "score": 2,
+            "created": 1709154897,
+            "replies": []
+          },
+          {
+            "author": "MichaelForeston",
+            "body": "Awesome, make a tutorial bro!",
+            "score": 2,
+            "created": 1709014297,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, will post in next few days!",
+                "score": 9,
+                "created": 1709015366
+              }
+            ]
+          },
+          {
+            "author": "voltisvolt",
+            "body": "Hi, did you ever post the tutorial for this? Looks awesome",
+            "score": 1,
+            "created": 1712964748,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, it's here: [https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial](https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial)",
+                "score": 1,
+                "created": 1713046914
+              }
+            ]
+          },
+          {
+            "author": "[deleted]",
+            "body": "how many images did it take?",
+            "score": 1,
+            "created": 1709010329,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Hi, I use 17 images look like this:\n\nhttps://preview.redd.it/y4spmzoj92lc1.png?width=1767&amp;format=png&amp;auto=webp&amp;s=fb103b3b72f2c31943a2db6ea41ece11196a613d",
+                "score": 5,
+                "created": 1709010474
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/jbe80zml82lc1.jpg?width=1536&format=pjpg&auto=webp&s=4edf59cc47d46222a0b78d05f9e8ce6e2a660c79",
+      "thread": {
+        "title": "I trained Custom Lora on Tumi backpacks using photos from Tumi's website. It should also work with other e-commerce products. I'll share the tutorial soon! (Lora SDLX download link in description)",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1b13kjg/i_trained_custom_lora_on_tumi_backpacks_using/",
+        "selftext": "",
+        "author": "ComprehensiveHand515",
+        "score": 29,
+        "numComments": 15,
+        "created": 1709010185,
+        "comments": [
+          {
+            "author": "protector111",
+            "body": "Now please Make pikachu wear it.",
+            "score": 3,
+            "created": 1709039485,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "I'll need to make Pikachu successfully wear any backpack first!",
+                "score": 3,
+                "created": 1709095150
+              }
+            ]
+          },
+          {
+            "author": "SlavaSobov",
+            "body": "Great work! \n\nThis is Tumi. Tuuuuuumiiiii! https://youtu.be/DT2tejY1HXk?si=0QnbyJl2J4-cif9P",
+            "score": 2,
+            "created": 1709154897,
+            "replies": []
+          },
+          {
+            "author": "MichaelForeston",
+            "body": "Awesome, make a tutorial bro!",
+            "score": 2,
+            "created": 1709014297,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, will post in next few days!",
+                "score": 9,
+                "created": 1709015366
+              }
+            ]
+          },
+          {
+            "author": "voltisvolt",
+            "body": "Hi, did you ever post the tutorial for this? Looks awesome",
+            "score": 1,
+            "created": 1712964748,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, it's here: [https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial](https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial)",
+                "score": 1,
+                "created": 1713046914
+              }
+            ]
+          },
+          {
+            "author": "[deleted]",
+            "body": "how many images did it take?",
+            "score": 1,
+            "created": 1709010329,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Hi, I use 17 images look like this:\n\nhttps://preview.redd.it/y4spmzoj92lc1.png?width=1767&amp;format=png&amp;auto=webp&amp;s=fb103b3b72f2c31943a2db6ea41ece11196a613d",
+                "score": 5,
+                "created": 1709010474
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/w4qxwxml82lc1.jpg?width=1536&format=pjpg&auto=webp&s=833a2f568124ff4686b90735b003d887494b03ed",
+      "thread": {
+        "title": "I trained Custom Lora on Tumi backpacks using photos from Tumi's website. It should also work with other e-commerce products. I'll share the tutorial soon! (Lora SDLX download link in description)",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1b13kjg/i_trained_custom_lora_on_tumi_backpacks_using/",
+        "selftext": "",
+        "author": "ComprehensiveHand515",
+        "score": 29,
+        "numComments": 15,
+        "created": 1709010185,
+        "comments": [
+          {
+            "author": "protector111",
+            "body": "Now please Make pikachu wear it.",
+            "score": 3,
+            "created": 1709039485,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "I'll need to make Pikachu successfully wear any backpack first!",
+                "score": 3,
+                "created": 1709095150
+              }
+            ]
+          },
+          {
+            "author": "SlavaSobov",
+            "body": "Great work! \n\nThis is Tumi. Tuuuuuumiiiii! https://youtu.be/DT2tejY1HXk?si=0QnbyJl2J4-cif9P",
+            "score": 2,
+            "created": 1709154897,
+            "replies": []
+          },
+          {
+            "author": "MichaelForeston",
+            "body": "Awesome, make a tutorial bro!",
+            "score": 2,
+            "created": 1709014297,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, will post in next few days!",
+                "score": 9,
+                "created": 1709015366
+              }
+            ]
+          },
+          {
+            "author": "voltisvolt",
+            "body": "Hi, did you ever post the tutorial for this? Looks awesome",
+            "score": 1,
+            "created": 1712964748,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Yes, it's here: [https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial](https://punya.ai/blog/post/custom-lora-stable-diffusion-fashion-clothes-commercial)",
+                "score": 1,
+                "created": 1713046914
+              }
+            ]
+          },
+          {
+            "author": "[deleted]",
+            "body": "how many images did it take?",
+            "score": 1,
+            "created": 1709010329,
+            "replies": [
+              {
+                "author": "ComprehensiveHand515",
+                "body": "Hi, I use 17 images look like this:\n\nhttps://preview.redd.it/y4spmzoj92lc1.png?width=1767&amp;format=png&amp;auto=webp&amp;s=fb103b3b72f2c31943a2db6ea41ece11196a613d",
+                "score": 5,
+                "created": 1709010474
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/u65uqik312jd1.jpg?width=1290&format=pjpg&auto=webp&s=a32123e5ea8cac763cf5e0aa0004d4f87c1d7d7f",
+      "thread": {
+        "title": "Can someone help me authenticate this tumi backpack. ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1ettl3m/can_someone_help_me_authenticate_this_tumi/",
+        "selftext": "Dude says he bought it foNordstrom. ",
+        "author": "dampsnack",
+        "score": 3,
+        "numComments": 8,
+        "created": 1723826460,
+        "comments": [
+          {
+            "author": "thereadytribe",
+            "body": "You try calling Tumi with the serial #?",
+            "score": 3,
+            "created": 1723828663,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "Not yet I didn’t think they would want to help with a used bag.",
+                "score": 1,
+                "created": 1723829546
+              }
+            ]
+          },
+          {
+            "author": "scooops",
+            "body": "Looks legit to me. Hard to tell 100% from the pictures.",
+            "score": 1,
+            "created": 1723828348,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "What do you look for?",
+                "score": 1,
+                "created": 1723829566
+              }
+            ]
+          },
+          {
+            "author": "Affectionate_Grab_78",
+            "body": "Have you owned a Tumi before? Comparing the quality and checking the serial number is the go to.",
+            "score": 1,
+            "created": 1723844080,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "This is the first.",
+                "score": 1,
+                "created": 1723844543
+              }
+            ]
+          },
+          {
+            "author": "ceedub2000",
+            "body": "100% fake. You can tell by the Tumi Tracer Placard.",
+            "score": 1,
+            "created": 1744233638,
+            "replies": []
+          },
+          {
+            "author": "guytes",
+            "body": "Why waste your money on those stupid backpacks?",
+            "score": 0,
+            "created": 1723845556,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/ot9yqjk312jd1.jpg?width=1290&format=pjpg&auto=webp&s=4a5dfcbf545e7ec33877c3c589b2973c613f2b35",
+      "thread": {
+        "title": "Can someone help me authenticate this tumi backpack. ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1ettl3m/can_someone_help_me_authenticate_this_tumi/",
+        "selftext": "Dude says he bought it foNordstrom. ",
+        "author": "dampsnack",
+        "score": 3,
+        "numComments": 8,
+        "created": 1723826460,
+        "comments": [
+          {
+            "author": "thereadytribe",
+            "body": "You try calling Tumi with the serial #?",
+            "score": 3,
+            "created": 1723828663,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "Not yet I didn’t think they would want to help with a used bag.",
+                "score": 1,
+                "created": 1723829546
+              }
+            ]
+          },
+          {
+            "author": "scooops",
+            "body": "Looks legit to me. Hard to tell 100% from the pictures.",
+            "score": 1,
+            "created": 1723828348,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "What do you look for?",
+                "score": 1,
+                "created": 1723829566
+              }
+            ]
+          },
+          {
+            "author": "Affectionate_Grab_78",
+            "body": "Have you owned a Tumi before? Comparing the quality and checking the serial number is the go to.",
+            "score": 1,
+            "created": 1723844080,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "This is the first.",
+                "score": 1,
+                "created": 1723844543
+              }
+            ]
+          },
+          {
+            "author": "ceedub2000",
+            "body": "100% fake. You can tell by the Tumi Tracer Placard.",
+            "score": 1,
+            "created": 1744233638,
+            "replies": []
+          },
+          {
+            "author": "guytes",
+            "body": "Why waste your money on those stupid backpacks?",
+            "score": 0,
+            "created": 1723845556,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/d0nnzik312jd1.jpg?width=1290&format=pjpg&auto=webp&s=9753f26796587a575fa25b0bbed332c25a5d9b99",
+      "thread": {
+        "title": "Can someone help me authenticate this tumi backpack. ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1ettl3m/can_someone_help_me_authenticate_this_tumi/",
+        "selftext": "Dude says he bought it foNordstrom. ",
+        "author": "dampsnack",
+        "score": 3,
+        "numComments": 8,
+        "created": 1723826460,
+        "comments": [
+          {
+            "author": "thereadytribe",
+            "body": "You try calling Tumi with the serial #?",
+            "score": 3,
+            "created": 1723828663,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "Not yet I didn’t think they would want to help with a used bag.",
+                "score": 1,
+                "created": 1723829546
+              }
+            ]
+          },
+          {
+            "author": "scooops",
+            "body": "Looks legit to me. Hard to tell 100% from the pictures.",
+            "score": 1,
+            "created": 1723828348,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "What do you look for?",
+                "score": 1,
+                "created": 1723829566
+              }
+            ]
+          },
+          {
+            "author": "Affectionate_Grab_78",
+            "body": "Have you owned a Tumi before? Comparing the quality and checking the serial number is the go to.",
+            "score": 1,
+            "created": 1723844080,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "This is the first.",
+                "score": 1,
+                "created": 1723844543
+              }
+            ]
+          },
+          {
+            "author": "ceedub2000",
+            "body": "100% fake. You can tell by the Tumi Tracer Placard.",
+            "score": 1,
+            "created": 1744233638,
+            "replies": []
+          },
+          {
+            "author": "guytes",
+            "body": "Why waste your money on those stupid backpacks?",
+            "score": 0,
+            "created": 1723845556,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/luoatwk312jd1.jpg?width=1290&format=pjpg&auto=webp&s=77fa75921ead7066a72ee6e7e2889194a2d8827f",
+      "thread": {
+        "title": "Can someone help me authenticate this tumi backpack. ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1ettl3m/can_someone_help_me_authenticate_this_tumi/",
+        "selftext": "Dude says he bought it foNordstrom. ",
+        "author": "dampsnack",
+        "score": 3,
+        "numComments": 8,
+        "created": 1723826460,
+        "comments": [
+          {
+            "author": "thereadytribe",
+            "body": "You try calling Tumi with the serial #?",
+            "score": 3,
+            "created": 1723828663,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "Not yet I didn’t think they would want to help with a used bag.",
+                "score": 1,
+                "created": 1723829546
+              }
+            ]
+          },
+          {
+            "author": "scooops",
+            "body": "Looks legit to me. Hard to tell 100% from the pictures.",
+            "score": 1,
+            "created": 1723828348,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "What do you look for?",
+                "score": 1,
+                "created": 1723829566
+              }
+            ]
+          },
+          {
+            "author": "Affectionate_Grab_78",
+            "body": "Have you owned a Tumi before? Comparing the quality and checking the serial number is the go to.",
+            "score": 1,
+            "created": 1723844080,
+            "replies": [
+              {
+                "author": "dampsnack",
+                "body": "This is the first.",
+                "score": 1,
+                "created": 1723844543
+              }
+            ]
+          },
+          {
+            "author": "ceedub2000",
+            "body": "100% fake. You can tell by the Tumi Tracer Placard.",
+            "score": 1,
+            "created": 1744233638,
+            "replies": []
+          },
+          {
+            "author": "guytes",
+            "body": "Why waste your money on those stupid backpacks?",
+            "score": 0,
+            "created": 1723845556,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/23x63pc01g4d1.jpg?width=500&format=pjpg&auto=webp&s=9e45c9e2c4e9be10fe608d01f585b891bdab06cb",
+      "thread": {
+        "title": "Tumi Japan Limited ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1d7j51d/tumi_japan_limited/",
+        "selftext": "Looking for a full leather backpack, came across this, going for USD667. Tumi Japan only Limited Edition. Is it worth it?",
+        "author": "KT10888",
+        "score": 7,
+        "numComments": 3,
+        "created": 1717458203,
+        "comments": [
+          {
+            "author": "cumzcumza",
+            "body": "Yes if you like your rear to carry the weight.",
+            "score": 2,
+            "created": 1717510297,
+            "replies": []
+          },
+          {
+            "author": "noumenon_invictusss",
+            "body": "Tumi quality is excellent despite no lifetime warranty. This unit is an urban version of North Face Baee Camp Daypack which you can get for $100 when it’s on sale. I love Tumi but they are like Aer and others in charging a huge premium to support their marketing budget.",
+            "score": 1,
+            "created": 1717517902,
+            "replies": []
+          },
+          {
+            "author": "PsychologySoft8983",
+            "body": "I have a Tumi, and have gifted another! Been using it for over 5 years, still the same as the day I bought it. Worth it IMO",
+            "score": 0,
+            "created": 1717482900,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/t9dn3z701g4d1.jpg?width=500&format=pjpg&auto=webp&s=1db55ce72dfd6e64d51e92e64d370022d7e1a9ce",
+      "thread": {
+        "title": "Tumi Japan Limited ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1d7j51d/tumi_japan_limited/",
+        "selftext": "Looking for a full leather backpack, came across this, going for USD667. Tumi Japan only Limited Edition. Is it worth it?",
+        "author": "KT10888",
+        "score": 7,
+        "numComments": 3,
+        "created": 1717458203,
+        "comments": [
+          {
+            "author": "cumzcumza",
+            "body": "Yes if you like your rear to carry the weight.",
+            "score": 2,
+            "created": 1717510297,
+            "replies": []
+          },
+          {
+            "author": "noumenon_invictusss",
+            "body": "Tumi quality is excellent despite no lifetime warranty. This unit is an urban version of North Face Baee Camp Daypack which you can get for $100 when it’s on sale. I love Tumi but they are like Aer and others in charging a huge premium to support their marketing budget.",
+            "score": 1,
+            "created": 1717517902,
+            "replies": []
+          },
+          {
+            "author": "PsychologySoft8983",
+            "body": "I have a Tumi, and have gifted another! Been using it for over 5 years, still the same as the day I bought it. Worth it IMO",
+            "score": 0,
+            "created": 1717482900,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/0vpyom201g4d1.jpg?width=505&format=pjpg&auto=webp&s=b35397ede5376960c2c6b272752204d9308cbdb5",
+      "thread": {
+        "title": "Tumi Japan Limited ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1d7j51d/tumi_japan_limited/",
+        "selftext": "Looking for a full leather backpack, came across this, going for USD667. Tumi Japan only Limited Edition. Is it worth it?",
+        "author": "KT10888",
+        "score": 7,
+        "numComments": 3,
+        "created": 1717458203,
+        "comments": [
+          {
+            "author": "cumzcumza",
+            "body": "Yes if you like your rear to carry the weight.",
+            "score": 2,
+            "created": 1717510297,
+            "replies": []
+          },
+          {
+            "author": "noumenon_invictusss",
+            "body": "Tumi quality is excellent despite no lifetime warranty. This unit is an urban version of North Face Baee Camp Daypack which you can get for $100 when it’s on sale. I love Tumi but they are like Aer and others in charging a huge premium to support their marketing budget.",
+            "score": 1,
+            "created": 1717517902,
+            "replies": []
+          },
+          {
+            "author": "PsychologySoft8983",
+            "body": "I have a Tumi, and have gifted another! Been using it for over 5 years, still the same as the day I bought it. Worth it IMO",
+            "score": 0,
+            "created": 1717482900,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/ufoi9rkggbzd1.jpg?width=1260&format=pjpg&auto=webp&s=181eae4c35e09ad20fbc2ef0b5fc0ef8a91e4fe6",
+      "thread": {
+        "title": "Everyday carry laptop backpack ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1gl3xn7/everyday_carry_laptop_backpack/",
+        "selftext": "Hi everyone, need recommendations for laptop bag (INDIA) for daily use (office), \nI carry 15.6 inch laptop, tablet, water bottle, and a small tiffin sometimes, need something which might look like targus mobile elite, or tumi alpha bravo\n\n4000 Inr budget \nThanks in advance ",
+        "author": "Psychic__joker",
+        "score": 2,
+        "numComments": 0,
+        "created": 1730914158,
+        "comments": []
+      }
+    },
+    {
+      "image": "https://preview.redd.it/y0n9lttggbzd1.jpg?width=1260&format=pjpg&auto=webp&s=222995e0927a78776b44bd17507928646e37536c",
+      "thread": {
+        "title": "Everyday carry laptop backpack ",
+        "url": "https://www.reddit.com/r/backpacks/comments/1gl3xn7/everyday_carry_laptop_backpack/",
+        "selftext": "Hi everyone, need recommendations for laptop bag (INDIA) for daily use (office), \nI carry 15.6 inch laptop, tablet, water bottle, and a small tiffin sometimes, need something which might look like targus mobile elite, or tumi alpha bravo\n\n4000 Inr budget \nThanks in advance ",
+        "author": "Psychic__joker",
+        "score": 2,
+        "numComments": 0,
+        "created": 1730914158,
+        "comments": []
+      }
+    },
+    {
+      "image": "https://preview.redd.it/974o6rkhm17a1.jpg?width=3024&format=pjpg&auto=webp&s=1e2ef322c9cce20c4c4de7ca45152ab24d606fa4",
+      "thread": {
+        "title": "Just got this TUMI Bertona backpack as gift",
+        "url": "https://www.reddit.com/r/ManyBaggers/comments/zqmmuo/just_got_this_tumi_bertona_backpack_as_gift/",
+        "selftext": "Will use it for work and some classes, feels very solid, definitely has the TUMI premium feel and build quality (loved the orange stitching on the top handle). Not a lot of room to spare but it’s a nice daily backpack ; fits my 16” Lenovo Legion perfectly.",
+        "author": "eduescoto",
+        "score": 90,
+        "numComments": 3,
+        "created": 1671537782,
+        "comments": [
+          {
+            "author": "lgshaw1444",
+            "body": "You scored big! It looks like the perfect size for when you don’t need to carry a lot. I have several Tumi bags and love them; the quality is great, as is the level of detail (like the orange stitching you like). You’ll get lots of years of our this bag.",
+            "score": 6,
+            "created": 1671546267,
+            "replies": [
+              {
+                "author": "eduescoto",
+                "body": "you are 100% right, I have a Tumi Harrison Slim Brief and a wallet, both have amazing quality and a lot of details!",
+                "score": 5,
+                "created": 1671547359
+              }
+            ]
+          },
+          {
+            "author": "JayWing_9",
+            "body": "I love Tumi man. I got tons of stuff from them. This is a classic pack and it will hold up, especially if you treat the bags gently. I am not one to drag my bags across the floor, leave it on the NYC subway or bus floors, throw it on asphalt and dragging it there, etc.",
+            "score": 3,
+            "created": 1671549365,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/wh8birkhm17a1.jpg?width=3024&format=pjpg&auto=webp&s=a7f4edd534bb0e37d54f7bdf7c1b2e28d44993e3",
+      "thread": {
+        "title": "Just got this TUMI Bertona backpack as gift",
+        "url": "https://www.reddit.com/r/ManyBaggers/comments/zqmmuo/just_got_this_tumi_bertona_backpack_as_gift/",
+        "selftext": "Will use it for work and some classes, feels very solid, definitely has the TUMI premium feel and build quality (loved the orange stitching on the top handle). Not a lot of room to spare but it’s a nice daily backpack ; fits my 16” Lenovo Legion perfectly.",
+        "author": "eduescoto",
+        "score": 90,
+        "numComments": 3,
+        "created": 1671537782,
+        "comments": [
+          {
+            "author": "lgshaw1444",
+            "body": "You scored big! It looks like the perfect size for when you don’t need to carry a lot. I have several Tumi bags and love them; the quality is great, as is the level of detail (like the orange stitching you like). You’ll get lots of years of our this bag.",
+            "score": 6,
+            "created": 1671546267,
+            "replies": [
+              {
+                "author": "eduescoto",
+                "body": "you are 100% right, I have a Tumi Harrison Slim Brief and a wallet, both have amazing quality and a lot of details!",
+                "score": 5,
+                "created": 1671547359
+              }
+            ]
+          },
+          {
+            "author": "JayWing_9",
+            "body": "I love Tumi man. I got tons of stuff from them. This is a classic pack and it will hold up, especially if you treat the bags gently. I am not one to drag my bags across the floor, leave it on the NYC subway or bus floors, throw it on asphalt and dragging it there, etc.",
+            "score": 3,
+            "created": 1671549365,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/e5dlh7g21ncb1.jpg?width=1179&format=pjpg&auto=webp&s=46d6e2dd776987f05d50aa3a8fa870fe9df6e15d",
+      "thread": {
+        "title": "Tumi Expedition Flap Backpack",
+        "url": "https://www.reddit.com/r/backpacks/comments/152m6fo/tumi_expedition_flap_backpack/",
+        "selftext": "This bag retails for $795. I’m able to get this bad for 25%. I like the appearance of the bag. And it’s big enough to hold a weekend worth of clothes, 16 laptop and accessories. \nWorth picking up? If not any alternatives?",
+        "author": "cardiomd1",
+        "score": 7,
+        "numComments": 12,
+        "created": 1689648696,
+        "comments": [
+          {
+            "author": "allaspiaggia",
+            "body": "That’s a LOT a of money for a backpack!  At this price point, you’re paying for the brand name, not the quality.  So if the brand name is important to you, by all means go for it.  But if you’re just looking for functionality, you could easily get a similar quality backpack for $150-300-ish.  Yes you get what you pay for, but unless this Tumi bag is made from unobtanium or something, the quality is just not worth the cost.",
+            "score": 4,
+            "created": 1689650518,
+            "replies": [
+              {
+                "author": "DoughnutAcrobatic278",
+                "body": "i just bought that bag and its actually worth it, its a beautiful bag",
+                "score": 3,
+                "created": 1731796051
+              },
+              {
+                "author": "[deleted]",
+                "body": "I think it helps their marketing that Tom Cruise is never seen without his Alpha Bravo. When I saw the price I looked into it, assuming it was fully weatherproof and made of the finest materials…nope, just a normal ballistic nylon bag…",
+                "score": 2,
+                "created": 1689662433
+              }
+            ]
+          },
+          {
+            "author": "blessedpink",
+            "body": "There are so many dope bags out there. You could buy 3-4 super high quality, handmade, well designed bags for various purposes for that budget. You’d have the start of a really nice collection. Check out defy bags “Bucktown” model, or black ember “citadel”. Check out those manufacturers’ Instagram accounts, read their “about” section. Join r/manybaggers and start to learn about the bags that always get mentioned. The passion, creativity, and ingenuity that goes into these bags is kind of mind blowing. You’ll never think about tumi again.",
+            "score": 3,
+            "created": 1689655068,
+            "replies": []
+          },
+          {
+            "author": "Sisyphus1221",
+            "body": "If it’s a real Tumi then it is worth it that price. If it’s from eBay it’s a cheap chinese knock off. For that go to Ali Express and get it for 35$",
+            "score": 2,
+            "created": 1720036016,
+            "replies": []
+          },
+          {
+            "author": "michio10",
+            "body": "I bought the glow in the dark version of this bag recently during Boxing Day sale at the Tumi store for a really good price in Canada while I was there (ended up being 409USD when converted). \nWhen Tumi wants to get rid of their seasonal colors they do knock them down when phasing out the color ways by a fairly large percentage which is nice if you happen to like the color.\n\nWith TUMI stuff, generally speaking their core color ways like solid black or navy blue that are catered towards business use rarely go on sale to the public. So if you have a way to save on it such as employee discount or credit card points etc, and you plan to use it for a while, it would not be such a bad purchase. \nI don’t really consider alpha bravo lines super luxurious but more on the side of functional and durable line with a splash of brand/luxury. Price wise it is expensive up front but knowing I don’t really have worry about having to buy another bag due to failures for 5 years is kind of nice and their customer service is pretty good especially in store. \n(I’ve had repairs done before) \n\nBack to the expedition bag - I have not started using it but I’m excited about using it and love the compartments. It’s quite big and I love that the bottle holder pocket on the side can accommodate bottles similar to hydro flask, Nalgene etc. Bottom can be opened up to be a pass though with the primary compartment and the compartment on the front is kind of a shared space with flexible divider if you will. So you can kind of use respective compartments to divide clean and dirty clothes if you so choose to.\nAlso, the magnetic buckles for the top flap is Fidlock v-buckle. If you ever need to replace it down the road you can buy them online (after warranty or if you don’t want to go through Tumi or simply wanting to change the buckle face color).\n\nI’m not personally big into sticking shoes in the backpack so I won’t use the bottom compartment as a shoe storage and probably just stick a hard case with headphone or something in it or amenity kit when I travel but not sure yet.\n\nWhile I have a small sample size of to speak for durability, I can say that all the Tumi bags I’ve own have not been babied but I feel like they last quite a while. \nI had my gray/brown Knox back pack for about 7 years, used almost every day with travels, commutes etc does not look worn out at all. Also have a briefcase that I take for certain occasion like business trips and I can say the same. \n\nFor comparison, I had a Herschel backpack as corporate swag. While it is nice, I feel that would only last a few years with the same type of use as my Knox. \n\nTLDR:\nIf you’re using it for a while, they are worth picking up as they are pretty durable. \n\nThe way they did the compartments are pretty nice. Bottle holder on the side is large and can accommodate hydro flask or Nalgene bottle.\n\nDepending on the color way, you may be able to get it even cheaper. But if you can save on the core color way it’s a good deal because those color way hardly go on sale. \n\nSorry this was a long one.\n\n**edited to fix some typo I found after posting.",
+            "score": 1,
+            "created": 1736028410,
+            "replies": []
+          },
+          {
+            "author": "HangoverPoboy",
+            "body": "A backpack that cost that much shouldn’t have a 5 year warranty or weigh 4.3lbs unless it’s made of something much more lux than ballistic nylon.",
+            "score": 1,
+            "created": 1689651806,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/z0bkk7g21ncb1.jpg?width=1179&format=pjpg&auto=webp&s=897f7ffa99e0923c13e4f1a5cc767d2694853c10",
+      "thread": {
+        "title": "Tumi Expedition Flap Backpack",
+        "url": "https://www.reddit.com/r/backpacks/comments/152m6fo/tumi_expedition_flap_backpack/",
+        "selftext": "This bag retails for $795. I’m able to get this bad for 25%. I like the appearance of the bag. And it’s big enough to hold a weekend worth of clothes, 16 laptop and accessories. \nWorth picking up? If not any alternatives?",
+        "author": "cardiomd1",
+        "score": 7,
+        "numComments": 12,
+        "created": 1689648696,
+        "comments": [
+          {
+            "author": "allaspiaggia",
+            "body": "That’s a LOT a of money for a backpack!  At this price point, you’re paying for the brand name, not the quality.  So if the brand name is important to you, by all means go for it.  But if you’re just looking for functionality, you could easily get a similar quality backpack for $150-300-ish.  Yes you get what you pay for, but unless this Tumi bag is made from unobtanium or something, the quality is just not worth the cost.",
+            "score": 4,
+            "created": 1689650518,
+            "replies": [
+              {
+                "author": "DoughnutAcrobatic278",
+                "body": "i just bought that bag and its actually worth it, its a beautiful bag",
+                "score": 3,
+                "created": 1731796051
+              },
+              {
+                "author": "[deleted]",
+                "body": "I think it helps their marketing that Tom Cruise is never seen without his Alpha Bravo. When I saw the price I looked into it, assuming it was fully weatherproof and made of the finest materials…nope, just a normal ballistic nylon bag…",
+                "score": 2,
+                "created": 1689662433
+              }
+            ]
+          },
+          {
+            "author": "blessedpink",
+            "body": "There are so many dope bags out there. You could buy 3-4 super high quality, handmade, well designed bags for various purposes for that budget. You’d have the start of a really nice collection. Check out defy bags “Bucktown” model, or black ember “citadel”. Check out those manufacturers’ Instagram accounts, read their “about” section. Join r/manybaggers and start to learn about the bags that always get mentioned. The passion, creativity, and ingenuity that goes into these bags is kind of mind blowing. You’ll never think about tumi again.",
+            "score": 3,
+            "created": 1689655068,
+            "replies": []
+          },
+          {
+            "author": "Sisyphus1221",
+            "body": "If it’s a real Tumi then it is worth it that price. If it’s from eBay it’s a cheap chinese knock off. For that go to Ali Express and get it for 35$",
+            "score": 2,
+            "created": 1720036016,
+            "replies": []
+          },
+          {
+            "author": "michio10",
+            "body": "I bought the glow in the dark version of this bag recently during Boxing Day sale at the Tumi store for a really good price in Canada while I was there (ended up being 409USD when converted). \nWhen Tumi wants to get rid of their seasonal colors they do knock them down when phasing out the color ways by a fairly large percentage which is nice if you happen to like the color.\n\nWith TUMI stuff, generally speaking their core color ways like solid black or navy blue that are catered towards business use rarely go on sale to the public. So if you have a way to save on it such as employee discount or credit card points etc, and you plan to use it for a while, it would not be such a bad purchase. \nI don’t really consider alpha bravo lines super luxurious but more on the side of functional and durable line with a splash of brand/luxury. Price wise it is expensive up front but knowing I don’t really have worry about having to buy another bag due to failures for 5 years is kind of nice and their customer service is pretty good especially in store. \n(I’ve had repairs done before) \n\nBack to the expedition bag - I have not started using it but I’m excited about using it and love the compartments. It’s quite big and I love that the bottle holder pocket on the side can accommodate bottles similar to hydro flask, Nalgene etc. Bottom can be opened up to be a pass though with the primary compartment and the compartment on the front is kind of a shared space with flexible divider if you will. So you can kind of use respective compartments to divide clean and dirty clothes if you so choose to.\nAlso, the magnetic buckles for the top flap is Fidlock v-buckle. If you ever need to replace it down the road you can buy them online (after warranty or if you don’t want to go through Tumi or simply wanting to change the buckle face color).\n\nI’m not personally big into sticking shoes in the backpack so I won’t use the bottom compartment as a shoe storage and probably just stick a hard case with headphone or something in it or amenity kit when I travel but not sure yet.\n\nWhile I have a small sample size of to speak for durability, I can say that all the Tumi bags I’ve own have not been babied but I feel like they last quite a while. \nI had my gray/brown Knox back pack for about 7 years, used almost every day with travels, commutes etc does not look worn out at all. Also have a briefcase that I take for certain occasion like business trips and I can say the same. \n\nFor comparison, I had a Herschel backpack as corporate swag. While it is nice, I feel that would only last a few years with the same type of use as my Knox. \n\nTLDR:\nIf you’re using it for a while, they are worth picking up as they are pretty durable. \n\nThe way they did the compartments are pretty nice. Bottle holder on the side is large and can accommodate hydro flask or Nalgene bottle.\n\nDepending on the color way, you may be able to get it even cheaper. But if you can save on the core color way it’s a good deal because those color way hardly go on sale. \n\nSorry this was a long one.\n\n**edited to fix some typo I found after posting.",
+            "score": 1,
+            "created": 1736028410,
+            "replies": []
+          },
+          {
+            "author": "HangoverPoboy",
+            "body": "A backpack that cost that much shouldn’t have a 5 year warranty or weigh 4.3lbs unless it’s made of something much more lux than ballistic nylon.",
+            "score": 1,
+            "created": 1689651806,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/my5sombqlvxc1.jpeg?width=1080&crop=smart&auto=webp&s=e529b65e49db49d82888ab506d918400193fb594",
+      "thread": {
+        "title": "TUMI Alpha Bravo Search",
+        "url": "https://www.reddit.com/r/backpacks/comments/1chwjum/tumi_alpha_bravo_search/",
+        "selftext": "Growing tired of trying out bags to find the one I want to use as my daily driver for the foreseeable future. I’ve been thinking of getting this TUMI in leather - I love the idea of a good patina’d backpack. People seem to love them based on YouTube reviews. I’ve never seen this bag in person but planned on driving to the nearest TUMI store to buy it if you guys have good things to say and if I like it in person. Obviously this will be an $800+ backpack so I want to hear others’ opinions before buying it. Fire away!",
+        "author": "mooncaptain101",
+        "score": 7,
+        "numComments": 23,
+        "created": 1714595838,
+        "comments": [
+          {
+            "author": "misterewing",
+            "body": "I have dozens of 'fancy' backpacks including two others by Tumi (Harrison Warren and an Alpha 3 Brief Pack); the bag I use far and away more than any other is the Alpha Bravo Search (ballistic). I bought it to replace an Alpha Bravo Shepard that was in my general work/travel rotation; that rotation has all but ended. On the weekend I use other bags but the Search is my daily driver. The thing is super comfortable, holds everything I need including a light jacket, umbrella, a 32 ounce Owala, when not traveling my lunch, an 11\" tablet, 13\" laptop, notebook, cables etc. When I travel it easily holds a pair of over ear noise canceling headphones and things like gloves and a hat climate requiring.",
+            "score": 5,
+            "created": 1714597479,
+            "replies": [
+              {
+                "author": "mooncaptain101",
+                "body": "Awesome. That sounds almost exactly like my load out so good to hear my things will fit.\n\nThank you!",
+                "score": 1,
+                "created": 1714598155
+              },
+              {
+                "author": "cglee",
+                "body": "How’s using it without a sternum strap? Every backpack I have at that size comes with a sternum strap, which I use frequently.",
+                "score": 1,
+                "created": 1714610910
+              }
+            ]
+          },
+          {
+            "author": "Amalie000",
+            "body": "This is the backpack I use for work, but I don’t have the leather version, and mine is a few years old. Not sure if there have been changes. \n\nThings I carry in it: Laptop, IPad, leather portfolio, a few notebooks, a book, my purse, epipen, wireless headphones, a sweater, a rain jacket, charger cords, mouse and keyboard, and pens/pencils. \n\n\nPros: \n1) Easy access when opened from the top. \n2) The mesh pocket on the inside of the top flat is perfect for storing small cables (phones and tablets - my laptop’s charger would be too heavy) and pencils. If you aren’t worried about your pens leaking (I am) it’s great for that too.\n3) Laptop compartment is large enough for my work laptop (17in) and an iPad. I keep my laptop in a soft sleeve for a little extra protection, but my iPad is only in a normal protective case. \n4) Isn’t showing signs of wear after several years. \n\n\nPros/Cons External Pockets: \n1) Front pockets: \n1a) The small narrow horizontal pocket across the front is the PERFECT size for my epipen. I have an “epipen” tag on that zipper and it’s easy access. \n1b) That pocket isn’t a great size for anything else. I can fit my work badge in it, or my keys, or a couple pens. It’s too small for any of my glasses cases. \n2) Larger front pocket towards the bottom: it’s great for small thin items, but not for much else. \n3) Bottle pockets on the side: My everyday water bottle (owala 32oz) doesn’t fit without putting stress on the zippers. A 16oz soda bottle does fit. I mostly use them for things like pens.\n\n\nCon: The major con for me is the weight distribution on the straps for longer distances. The weight is primarily towards the top of the straps instead of being more evenly distributed. It’s not a problem for short distances, but it’s not comfortable for long distances. I do use forearm crutches with a swing through gait, so that does change how backpacks move, but I don’t have that problem with my osprey backpacks or my northside backpack, even though I rarely use their front straps. I’m the right height for the backpack and the straps are adjusted correctly.",
+            "score": 3,
+            "created": 1715438018,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "It won't really \"patina\" like a brown leather or waxed canvas pack. It will fade, scratch and crease.\n\nIt's a nice bag, leather will be heavier but I would say it's a toss up between this and ballistic nylon.\n\nNylon is more practical if that matters to you.",
+            "score": 1,
+            "created": 1714597745,
+            "replies": [
+              {
+                "author": "mooncaptain101",
+                "body": "I suppose “patina” isn’t the correct word but yeah I’d like to see it fade, scratch and crease — show signs it’s been used.\n\nI’ll prob end up getting the leather.\n\nThanks for your input!",
+                "score": 3,
+                "created": 1714598049
+              }
+            ]
+          },
+          {
+            "author": "junghams",
+            "body": "I’m sure you’ll love it. I am an avid user of other Alpha Bravo bags, not specifically the Search. My wife, having observed my satisfaction, now got an Alpha Bravo herself, even if they are marketed for men.",
+            "score": 1,
+            "created": 1714598991,
+            "replies": []
+          },
+          {
+            "author": "forumbot757",
+            "body": "I have a feeling I went to buy this bag and then I found out it didn’t have like the secret top magnetic pocket and then I didn’t buy it but maybe I’m mistaken. I can’t really remember.",
+            "score": 1,
+            "created": 1714605224,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://external-preview.redd.it/Bbe3h80LxXeSjOMCky5ywx1UjVRWlcHd7qAINOFHqRA.jpg?width=1080&crop=smart&auto=webp&s=af73a5f31b106522797a4d848bf68424fc5ad6e7",
+      "thread": {
+        "title": "Are Tumi backpacks worth it? I like this one a lot but $700+ is insane",
+        "url": "https://www.reddit.com/r/backpacks/comments/12trbuk/are_tumi_backpacks_worth_it_i_like_this_one_a_lot/",
+        "selftext": "",
+        "author": "BroWassup",
+        "score": 79,
+        "numComments": 115,
+        "created": 1682054369,
+        "comments": [
+          {
+            "author": "charitytowin",
+            "body": "After the initial build quality, which is very high but isn't worth $750, you are paying for the brand and style.\n\nThe added cost is to have the badge that says Tumi.",
+            "score": 31,
+            "created": 1682078958,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "I had an Alpha Bravo that I used daily for 10 years ([https://cdna.lystit.com/photos/2013/07/21/tumi-spruce-bravo-backpack-product-1-12023954-203496032.jpeg](https://cdna.lystit.com/photos/2013/07/21/tumi-spruce-bravo-backpack-product-1-12023954-203496032.jpeg), it had a hi-viz interior). It was a great bag that I hauled all over North/Central America and Europe.\n\nThings I liked:\n\n* Great Build Quality\n* Looked good\n* Sensible organization/pockets\n* Could stuff it pretty full and didn't worry about zipper issues\n* Fit under the seat in every plane I was on\n\nOver time, I changed my packing style and I came to dislike the amount of pockets/organization in the bag. It felt like I was being constrained and I couldn't put a packing cube with a few days of clothes in in. I have since moved on to a GR1 and will probably get a 34L GR3 if Goruck ever drops one.\n\nIn the end I would say if this is your day to day, take it to the office bag, it is fantastic and will last you a long time (probably long enough to justify most of that price tag). If you do a lot of travel and live out of your backpack, you should consider continuing your search.\n\nBest of luck on your backpack journey!",
+            "score": 18,
+            "created": 1682078369,
+            "replies": [
+              {
+                "author": "BuckeyeSouth",
+                "body": "Traveled with an Alpha for a couple years, worked very well, outstanding build quality.  Used the laptop sleeve for a shirt compression folder and was able to get 2 nights out of it.",
+                "score": 3,
+                "created": 1682090766
+              }
+            ]
+          },
+          {
+            "author": "jimmyliew",
+            "body": "Guess it depends what you value the price for.\n\nFor some - that same amount can mean at least 3 other backpacks of quality build.",
+            "score": 16,
+            "created": 1682060961,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "A lo of people say the quality isn't as good as it used to be, but take that with a pinch of salt as many people say that about most things.\n\nI have some Tumi bags and the build quality is great. The materials used are all very hard wearing, and the styling stands out from the crowd, although I'm more a fan of Piquadro's styling nowadays.\n\nIf you like it and can afford it, then go for it. Of course, it won't be as good as the other expensive bag that someone else just bought, or the cheaper bag that someone else just bought, but it's not about them and their opinions is it?",
+            "score": 16,
+            "created": 1682060305,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "[deleted]",
+                "score": 1,
+                "created": 1682180814
+              }
+            ]
+          },
+          {
+            "author": "Flunu29",
+            "body": "Ex Samsonite designer here (They own Tumi),\n\nBuild quality and quality testing is top notch, zippers never fail and post-sale service is very good. It is a statement piece that you do not have to explain anywhere you go, people know what it is. It will outlast most business style backpacks and they are using lately a lot of recycled materials and production practices which are good for the planet. In the end it is a great buy, a bit boring and predictable but it is the Iphone of backpacks.\n\nThey are heavy!",
+            "score": 13,
+            "created": 1682120567,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "Late to your response, but the zipper never failing pulled me in. I'm looking for a backpack at a much lower price point (ideally no more than $125) with a zipper that doesn't fail. Any backpacks you can recommend? Ty in advance!",
+                "score": 1,
+                "created": 1736738203
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/x754fkhx38bc1.jpeg?width=1080&crop=smart&auto=webp&s=0026ce1611c8f9805bef3c92c34a14afa8064df5",
+      "thread": {
+        "title": "Tumi Navigation Japan Exclusive",
+        "url": "https://www.reddit.com/r/backpacks/comments/191lziq/tumi_navigation_japan_exclusive/",
+        "selftext": "",
+        "author": "asutekku",
+        "score": 27,
+        "numComments": 42,
+        "created": 1704722799,
+        "comments": [
+          {
+            "author": "asutekku",
+            "body": "Picked up this Tumi Navigation backpack, exclusive to Japan, as my first foray into the \"premium\" backpack world, and I'm hoping it'll be my go-to for the next decade or so. Initial impressions are positive, and there's plenty of room for my short trips. Although it's supposed to accommodate laptops up to 15 inches, my 16-inch MacBook fits in without any issues.\r\n\nI'm not entirely certain, but I think the exclusivity comes from the colorway and material. The interior has a dark blue hue, while the outer is crafted from combed cotton, giving it a faux-leathery feel.\r\n\nCertainly not the most budget-friendly option, not even the second, but I'm content with my choice.",
+            "score": 3,
+            "created": 1704723028,
+            "replies": [
+              {
+                "author": "JayWing_9",
+                "body": "They don't do the blue interior liners anymore. I have the previous generation Alpha Bravo Nathan, London, and Aviano Slim Brief in black leather. What made the old leather pieces nice was the blue interior liner. It helped differentiate the leather pieces from the standard Nylon ones. Because of this the Japanese edition bags are really good. Took me a month to get my Logistics JP edition, I used Zenmarket to make the purchase and have it shipped to the U.S.",
+                "score": 1,
+                "created": 1705937809
+              }
+            ]
+          },
+          {
+            "author": "conky_dor",
+            "body": "I have the normal version of this bag and I really like it. The only nitpick I have is with the laptop area not having a false bottom and the liner material is kind of loose and not more tight. Wish they would fix those to make it into the perfect backpack.",
+            "score": 2,
+            "created": 1704732661,
+            "replies": []
+          },
+          {
+            "author": "JayWing_9",
+            "body": "I got the Logistics Japanese edition in 2022. Love the Italian Coated Canvas and the Fidlock buckle. [「ロジスティック」バックパック｜トゥミ公式サイト | TUMI](https://www.tumi.co.jp/tumi/alpha-bravo/logistics-backpack/tu-145199-8979.html)\n\nI am debating whether to get the Japanese Navigation next. The sling also seems dope as hell too although I got a Leather Kelley Sling and the Jeff Staple x Tumi Platoon Sling. Loving the Tumi lol. I rock the previous Nathan backpack in leather. The Navigation improves on the Nathan in various design elements such as pocketing and dimensions.",
+            "score": 2,
+            "created": 1705937675,
+            "replies": [
+              {
+                "author": "KampongWorker",
+                "body": "How's the coated canvas material holding up so far? Have been thinking between this material vs nylon vs leather",
+                "score": 2,
+                "created": 1735957457
+              }
+            ]
+          },
+          {
+            "author": "wretchedegg123",
+            "body": "I love the feel of Tumi bags, but I don't think I can bear carrying it around everyday and setting it on the floor. I can handle using $200+ bags but can't even imagine doing that to $500 bags. \n\nI love my dad's Tumi sling though, super high quality and doesn't look too bad even after 8 years.",
+            "score": 2,
+            "created": 1704726994,
+            "replies": [
+              {
+                "author": "asutekku",
+                "body": "\rI used to share the same perspective, but as I got to the position I can afford a backpack like this, it becomes \"just a backpack\". While it might come with a hefty price tag, I see them as material objects with a certain \"value.\"\r  \n\r  \nI recognize this viewpoint is somewhat privileged, but i feel it's a practical way to approach possessions, reducing unnecessary stress over wear and tear. After all, a stained backpack isn't likely to ruin my life.",
+                "score": 4,
+                "created": 1704727570
+              },
+              {
+                "author": "MSotallyTober",
+                "body": "The way I see it, use the bag as it was intended. I got myself a Filson zippered tote to sling over the bike seat when I take my kids to school and it triples as a shopping bag and baby bag sometimes. The twill and leather have broken in nicely and it’s developed a nice patina. All the better if you can find a brand that has a lifetime repair/warrantee.",
+                "score": 1,
+                "created": 1704963605
+              }
+            ]
+          },
+          {
+            "author": "irenaeuzz",
+            "body": "hi OP, How is the bag holding up? Am keen to use for a couple days travel as well as EDC. One thing i disliked about the non Japanese version was the tendency for the front panel of the bag pack to dent inwards depending on how you pack. Does that issue show up here?",
+            "score": 1,
+            "created": 1715674511,
+            "replies": [
+              {
+                "author": "asutekku",
+                "body": "well i'm on a weekend trip right now and absolutely zero problems with the bag, it's pretty solid bag overall",
+                "score": 2,
+                "created": 1715674614
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/1jq7djx40jye1.jpeg?width=1080&crop=smart&auto=webp&s=6bd9257fe45c47ac949136329e2e85ade2886f4f",
+      "thread": {
+        "title": "Tumi Navigation or Search?",
+        "url": "https://www.reddit.com/r/backpacks/comments/1kdo060/tumi_navigation_or_search/",
+        "selftext": "Considering a Tumi for over two years now and still can’t decide between the Navigation and the Search.\n\nI prefer the laptop compartment on the Search, but the main compartment and expansion feature on the Navigation seem more practical for everyday use and short trips.\n\nI’m 6’2”, so fit and comfort matter too.\n\nAnyone own either (or both) and have thoughts or regrets? Anything that helped you make the call?",
+        "author": "mischasigtermans",
+        "score": 1,
+        "numComments": 1,
+        "created": 1746260205,
+        "comments": [
+          {
+            "author": "Expert_Measurement50",
+            "body": "Never looked into the navigation before but it looks like an awesome bag. Pricey as with any tumi",
+            "score": 1,
+            "created": 1746288417,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/t3is6euwjprc1.jpeg?width=1080&crop=smart&auto=webp&s=3871d715f06ec5ca0b00f39881dbc63bed0fdd59",
+      "thread": {
+        "title": "In search of Tumi Bags",
+        "url": "https://www.reddit.com/r/DHgate/comments/1bsgcmb/in_search_of_tumi_bags/",
+        "selftext": "Doesn’t necessarily need to be this exact one, but looking for a large Tumi rep.",
+        "author": "Np1511",
+        "score": 5,
+        "numComments": 2,
+        "created": 1711907497,
+        "comments": [
+          {
+            "author": "darkmonkeyman13",
+            "body": "Couldn’t find an exact match but searching “tumin” got pretty close results. Wouldn’t let me share for some reason but there was one option as low as $89.",
+            "score": 3,
+            "created": 1711915529,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/wor6ovhxrp991.jpg?width=1080&crop=smart&auto=webp&s=1534e6f26cbe6c52325d9a520c8653a151b8c217",
+      "thread": {
+        "title": "Best way to get a discount for a full priced item? Does this model ever go on sale?",
+        "url": "https://www.reddit.com/r/Tumi/comments/vrp05n/best_way_to_get_a_discount_for_a_full_priced_item/",
+        "selftext": "",
+        "author": "stinnguyen",
+        "score": 12,
+        "numComments": 13,
+        "created": 1656993340,
+        "comments": [
+          {
+            "author": "threesixtyone",
+            "body": "I have this backpack and it’s fantastic. I gave up looking for a discount as only some of their products go on sale. It’s pricey, but the way I justify it is it’s good for work and travel and the more I use it, the more value I get from it.",
+            "score": 6,
+            "created": 1657022980,
+            "replies": [
+              {
+                "author": "a_run22",
+                "body": "I have this bag too and I love it!",
+                "score": 2,
+                "created": 1657048151
+              }
+            ]
+          },
+          {
+            "author": "Melogonza",
+            "body": "Delta gives 15% Tumi coupon codes to first class and business travelers. These are one-time use only codes. A few days ago commented on the Delta sub-reddit asking for a coupon, and a kind person shared one with me - it made my day! Hope you can have the same luck!",
+            "score": 5,
+            "created": 1657049597,
+            "replies": [
+              {
+                "author": "LaGrabba",
+                "body": "What? Wish I knew that!",
+                "score": 1,
+                "created": 1708736842
+              }
+            ]
+          },
+          {
+            "author": "Michaelscott555",
+            "body": "May catch it at a seasonal sale. You could also check an outlet store if you live near one",
+            "score": 2,
+            "created": 1657011933,
+            "replies": []
+          },
+          {
+            "author": "ptopty",
+            "body": "Rakuten Cash back!",
+            "score": 1,
+            "created": 1724374560,
+            "replies": []
+          },
+          {
+            "author": "veronica2be",
+            "body": "I can never find anything from the Alpha Series on sale. I think when I left one of the suitcases in my cart for a few days, I got an email with a code for 15% my first purchase and used it accordingly.",
+            "score": 1,
+            "created": 1657042030,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/sust21b987uc1.jpeg?width=1080&crop=smart&auto=webp&s=9ed18844ef1933eed4a966c76fbd07a6bd868f74",
+      "thread": {
+        "title": "Can’t find this on the Tumi website",
+        "url": "https://www.reddit.com/r/backpacks/comments/1c2w98r/cant_find_this_on_the_tumi_website/",
+        "selftext": "Hey I bought this bag from the Tumi outlet store for $400 after tax but can’t find any info of it online saw it on eBay tho ",
+        "author": "Standard-Muffin-5104",
+        "score": 0,
+        "numComments": 2,
+        "created": 1712993198,
+        "comments": [
+          {
+            "author": "allaspiaggia",
+            "body": "It’s an older model, so it’s no longer listed on the brands website.  Unless someone has screen shots of the website, eBay is probably your best bet for more information.",
+            "score": 2,
+            "created": 1713001569,
+            "replies": [
+              {
+                "author": "Standard-Muffin-5104",
+                "body": "Thank you",
+                "score": 1,
+                "created": 1713017705
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/5i4fcsy031h81.jpg?width=1080&crop=smart&auto=webp&s=a3e2d6ade9afbb0db90b6896f0ed00ead0757da5",
+      "thread": {
+        "title": "TUMI Alpha 3. I love this bag so much. Gift from my wife. I thought the pricetag was ridiculous but man, it is worth it. Incredibly well made and designed.",
+        "url": "https://www.reddit.com/r/backpacks/comments/sp9tnj/tumi_alpha_3_i_love_this_bag_so_much_gift_from_my/",
+        "selftext": "",
+        "author": "Sad-College6188",
+        "score": 44,
+        "numComments": 18,
+        "created": 1644508656,
+        "comments": [
+          {
+            "author": "CeruleanCynic",
+            "body": "Are there features you particularly like that cheaper bags may not have? I've considered investing in one to be my all around bag, but the price tag still feels outrageous.",
+            "score": 11,
+            "created": 1644531374,
+            "replies": [
+              {
+                "author": "Sad-College6188",
+                "body": "The retail price is indeed completely outrageous. I wanted this bag for years but was not willing to come anything close to spending this much. In comes my wife who seems to sometimes think that our checking account just runs on a loop haha.\n\nAs to your question, I don't think there's any special feature that you won't find in another bag. First off, it's huge. It fits everything I've ever tried to put into it when commuting. The way every comportment is designed is excellent. All of the secondary compartments are large and fit way more than you expect. Everything is designed such that nothing falls out if a zipper is left open. Even the large side pockets have an interior wall for expansion but large water bottles won't fall out (1L bottle fits but won't zip up, anything smaller zips up). There's just compartments within compartments and they all allow for amazing organization. And none of this touches on the excellent quality of the materials, zippers, straps, etc. It maintains it's shape no matter what's in it, is very comfortable to wear whether with a t-shirt or winter jacket and has a very comfortable top handle. My only regret is that I didn't get in monogrammed because I wasn't sure I'd keep it given the cost. Once I started commuting with it I knew there's no way I'm giving it up.",
+                "score": 6,
+                "created": 1644547819
+              },
+              {
+                "author": "GiveMeThePoints",
+                "body": "I can’t speak to this bag as I own the Tumi Carson Backpack that I use for work.  I thought the price was outrageous but I bought during the semi-annual clearance, had a Chase offer on one of my credit cards, and went through a cash back portal.  Only then was I okay with buying it.  It was still really expensive though, lol.  Just look for ways to stack savings.",
+                "score": 2,
+                "created": 1644537147
+              }
+            ]
+          },
+          {
+            "author": "mikey_zod",
+            "body": "Congrats OP! Enjoy your gift. Just wanted to remind you about registering your purchase online for easy repairs under Tumi warranty. Or saving your receipt.",
+            "score": 5,
+            "created": 1645162065,
+            "replies": []
+          },
+          {
+            "author": "CincyTriGuy",
+            "body": "I’ve exclusively had Tumi bags for work for the past 15 years or so. Including the Alpha series. I absolutely love them.",
+            "score": 4,
+            "created": 1644542992,
+            "replies": [
+              {
+                "author": "Sad-College6188",
+                "body": "Always wanted one but price was too high. This is my first. Extremely pleased with it.\n\nI have much cheaper Samsonite Kokbi Large, which kinda has the same features. But main compartment is much smaller, side pockets much smaller, top pocket not deep enough so wallet, earbuds case, etc will fall out, and overall quality not as good. Still a good option for a commuter bag and very comfy to wear at all times, but becomes clear why TUMI bags are 5-6x more expensive. Though part of that is just paying for the brand too I think.",
+                "score": 3,
+                "created": 1644600356
+              }
+            ]
+          },
+          {
+            "author": "hailzappa",
+            "body": "They will monogram anytime, just bring it in!",
+            "score": 4,
+            "created": 1644557036,
+            "replies": [
+              {
+                "author": "Sad-College6188",
+                "body": "Thanks for this tip! I just got it monogrammed when I was nearby the store with it. Grateful you shared this!",
+                "score": 3,
+                "created": 1645307132
+              }
+            ]
+          },
+          {
+            "author": "Real_Ali",
+            "body": "Would this stand out as too big in the office? I would like to use for my everyday work backpack. I am debating whether to go for this one in leather or go with the Navigation or the Search. The alpha 3 looks more classy in my opinion. too bad it does not have the quick access pocket with magnetic snap. I find the quick access pocket very useful and it's the main reason why I may switch to the Search/Navigation",
+            "score": 1,
+            "created": 1673428825,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "I've seen several of these in offices.",
+                "score": 1,
+                "created": 1679510034
+              },
+              {
+                "author": "Fm6954",
+                "body": "I have one that I carry into offices all the time.",
+                "score": 1,
+                "created": 1681826955
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/7j8zjz7omxpe1.jpeg?width=1080&crop=smart&auto=webp&s=199cf8f7d65ae751066d4b6c9718c0486dcdd088",
+      "thread": {
+        "title": "Is Tumi really worth the $$?",
+        "url": "https://www.reddit.com/r/backpacks/comments/1jg3fky/is_tumi_really_worth_the/",
+        "selftext": "I am a road warrior.  80 flights a year.  My $30 amazon laptop backpack finally died after five years.  I want to love this Tumi so much.  I even went in person to take a look and I just didn’t see how it was worth this price. Is it a status backpack? I’m team Travelpro with my luggage, but I didn’t care for their laptop backpacks so much.  Somebody please explain to me why I should get a $600 laptop backpack ✌🏼",
+        "author": "Prudent-Antelope6743",
+        "score": 151,
+        "numComments": 559,
+        "created": 1742514645,
+        "comments": [
+          {
+            "author": "retrofuture_",
+            "body": "lol no",
+            "score": 331,
+            "created": 1742514917,
+            "replies": [
+              {
+                "author": "L0ial",
+                "body": "lol no",
+                "score": 63,
+                "created": 1742524570
+              },
+              {
+                "author": "Fukko-Bob",
+                "body": "You forgot the 'F*#k' between the 'lol' and 'no'. 🫤",
+                "score": 51,
+                "created": 1742532417
+              }
+            ]
+          },
+          {
+            "author": "MulayamChaddi",
+            "body": "No",
+            "score": 128,
+            "created": 1742515088,
+            "replies": []
+          },
+          {
+            "author": "KindaSortaGood",
+            "body": "I have owned these (purhcased at Nordstrom Rack) for \\~$200 -- at that price range, they're worth it.\n\nAt this insane price? Absolutely not.\n\nI say this as a r/ManyBaggers  \n\nLook into Tom Bihn if you want a bag with excellent organization and tons of pockets.\n\n  \nOtherwise there are various other prettier options at much more affordable pricepoints (and with actual resale value).\n\nI suggest you also look into the [Aer Travel Pack 3](https://aersf.com/products/travel-pack-3?country=US)",
+            "score": 93,
+            "created": 1742516771,
+            "replies": [
+              {
+                "author": "Random-Kitty",
+                "body": "I got a Longchamp bag there, 80 instead of 150. Totally worth that price. Not worth the higher.",
+                "score": 13,
+                "created": 1742520030
+              },
+              {
+                "author": "Lanky-Original-2777",
+                "body": "I prefer my Tom Bihn over Tumi",
+                "score": 9,
+                "created": 1742521914
+              }
+            ]
+          },
+          {
+            "author": "lulululy",
+            "body": "Owned two Tumis before I discovered this community and several new brands, one thing I can say for sure is Tumi is designed around the classic old style business man, I have never had to worry about where my stuff is, as it’s so well organized and the quality has been great as well, my alpha from 2017 still looks brand new after countless trips. I work with several older guys and they have known No other brand than Tumi and that’s what made me get one too. You are paying to look the part of a somewhat successful businessman in an old school world. \n\nI have since started using evergoods CPL, CTB and Goruck, all of which serve their purpose, but on occasion when I’m going to be seeing customers I go back to my trust old Tumi.",
+            "score": 69,
+            "created": 1742516665,
+            "replies": [
+              {
+                "author": "Historical-Juice5891",
+                "body": "That’s interesting: I never got the customer TUMI serves.\nThe classic old style business man - at least here in Europe - won‘t wear a backpack to a business suit. That‘s seen as a no go. Those people prefer leather bags.\n\n(esp. heavy backpacks aren‘t good for the shoulder parts of business suits.)",
+                "score": 29,
+                "created": 1742536435
+              },
+              {
+                "author": "Not_Sarkastic",
+                "body": "OP this is the right answer. Tumi gets a lot of hate on here because of the price and launching some cheaper bags that don't hold up to the same standard as the originals, but their core bags are amazing. \n\nI have the Alpha in leather and it's going on 5 years and still looks amazing. I use it daily and travel about 35 weeks/year and get compliments on it nearly every trip. \n\nFor reference I'm a millennial and like the timeless look of certain models.",
+                "score": 6,
+                "created": 1742573233
+              }
+            ]
+          },
+          {
+            "author": "thatguyinpurple",
+            "body": "Tumi is good stuff, but you are paying for the name a lot. You can find stuff that’s as good in quality or slightly better for $200-400.",
+            "score": 16,
+            "created": 1742515937,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://external-preview.redd.it/GoHd5iMvRy5zy5WFcjFQWo-FmhZgZsGiACMpb_4LQhY.jpg?width=320&crop=smart&auto=webp&s=5321ca440b3931d069c38e49fbbaacd5ec4f74a8",
+      "thread": {
+        "title": "TUMI Alpha Bravo Navigation Backpack - $246 plus $25 1 yr membership at Sam's Club",
+        "url": "https://www.reddit.com/r/frugalmalefashion/comments/1jmufzi/tumi_alpha_bravo_navigation_backpack_246_plus_25/",
+        "selftext": "50% off retail price. They also have some other Tumi backpacks and suitcases at 50% off. ",
+        "author": "AffectionatePie512",
+        "score": 93,
+        "numComments": 50,
+        "created": 1743277398,
+        "comments": [
+          {
+            "author": "kgu123",
+            "body": "Great deal, MSRP is absolute non sense but this is definitely more palatable. Definitely paying for the brand still but the durability of these bags is no joke.",
+            "score": 46,
+            "created": 1743280171,
+            "replies": [
+              {
+                "author": "TigerJas",
+                "body": "If they are anywhere near the durability of the Alpha soft briefcases, that’s the last business backpack you will ever buy. ",
+                "score": 5,
+                "created": 1743337320
+              },
+              {
+                "author": "ChrisPBakon",
+                "body": "I got one at MSRP a couple years ago, love it, would absolutely buy a new one at MSRP without hesitation if I lost mine. This price is a steal ",
+                "score": 3,
+                "created": 1743286378
+              }
+            ]
+          },
+          {
+            "author": "IndyCollector24",
+            "body": "I don’t see any of these bags 50% off… The suitcases I’m scrolling through some of them $800",
+            "score": 19,
+            "created": 1743277859,
+            "replies": [
+              {
+                "author": "AffectionatePie512",
+                "body": "[https://www.tumi.com/p/navigation-backpack-01424791041](https://www.tumi.com/p/navigation-backpack-01424791041) that is the retail link. It is expensive but really good quality in my experience",
+                "score": 19,
+                "created": 1743277980
+              },
+              {
+                "author": "[deleted]",
+                "body": "Click his link \n\nIt will bring you to a Sams store front where you can make your purchase",
+                "score": 11,
+                "created": 1743278046
+              }
+            ]
+          },
+          {
+            "author": "ImSoRude",
+            "body": "Absolutely love love love my Tumi bag for work. People get so wrapped up in the hype with new urban commuter backpack brands but if you ignore the \"quality going down\" after Samsonite bought it (I don't really see it personally tbh) and their relatively high price tag compared to \"commuter backpack\" brands, their bags are really high quality and basically bulletproof. I basically throw my bag around and the only signs of wear I have after 6 years are some scratches on the bottom and a couple frayed linings that I'm too lazy to trim. Otherwise the bag is basically the same as I bought it.\n\nI might actually buy this and use my current one for all my other activities.",
+            "score": 12,
+            "created": 1743282499,
+            "replies": [
+              {
+                "author": "ageaye",
+                "body": "My expandable brief is almost destroyed after 5 years of almost weekly travel. Some of the glued pieces are coming off, the zippers have issues, the leather handle is cracked with the melted plastic covering the seams removed, lots of fraying if stitching in bottom/sided/where straps connect/main zipper.\n\nIll probably use it for another 2 years but I am not sure id call them bulletproof. Maybe they fixed some of these design flaws though - it looks like the zipper eyelets are gone which is good because the glue failed on them within the first year.\n\nI definitely dont think the quality is worth msrp.\n\nhttps://preview.redd.it/4cf3tkvs4pre1.jpeg?width=2252&amp;format=pjpg&amp;auto=webp&amp;s=91416d4cf12620ef9bac85c7917ac5fbe019f1db\n\nI got mine clearance for $325",
+                "score": 11,
+                "created": 1743283415
+              },
+              {
+                "author": "AffectionatePie512",
+                "body": "what bag do you have? backpack or suitcase?",
+                "score": 3,
+                "created": 1743282577
+              }
+            ]
+          },
+          {
+            "author": "awesome_sauce123",
+            "body": "Membership looks like $50 to me not 25? Are there any discount codes",
+            "score": 7,
+            "created": 1743281689,
+            "replies": [
+              {
+                "author": "dissectingAAA",
+                "body": "https://www.samsclub.com/join/club?couponId=3V4LN",
+                "score": 8,
+                "created": 1743297392
+              }
+            ]
+          },
+          {
+            "author": "ChocoKid",
+            "body": "Can 16 inch laptop fit in here?",
+            "score": 5,
+            "created": 1743303843,
+            "replies": [
+              {
+                "author": "AffectionatePie512",
+                "body": "Yeah my 16\" macbook pro does",
+                "score": 5,
+                "created": 1743321254
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://external-preview.redd.it/rcgOqD3uS7QhP6lTq-vXGrH90YD_IwKteXyfE-CA0O8.jpg?width=320&crop=smart&auto=webp&s=086d2e5cabddc22fc279c48e66fbe8fd3c80d6c7",
+      "thread": {
+        "title": "Trying to find Tumi bags? (In particular this alpha bravo Luke) - anyone have any recommendations?",
+        "url": "https://www.reddit.com/r/Aliexpress/comments/4hjp2o/trying_to_find_tumi_bags_in_particular_this_alpha/",
+        "selftext": "",
+        "author": "Tenof26",
+        "score": 8,
+        "numComments": 5,
+        "created": 1462221911,
+        "comments": [
+          {
+            "author": "Tenof26",
+            "body": "Apparently the bag is actually made in Thailand, is there a way to search for sellers by country?",
+            "score": 2,
+            "created": 1462266838,
+            "replies": [
+              {
+                "author": "SamCropper",
+                "body": "Yes, there is.",
+                "score": 1,
+                "created": 1462299276
+              }
+            ]
+          },
+          {
+            "author": "Philly267",
+            "body": "/u/Tenof26 did you ever find it? I am looking for the same bag",
+            "score": 1,
+            "created": 1474733758,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://external-preview.redd.it/SACa3PF6LQBXaN9-HFo-ZoScpey7c77OLIdCQ92-OyI.jpg?width=640&crop=smart&auto=webp&s=3b5c66d9d5c43253e1349343a0c86dc26937acb5",
+      "thread": {
+        "title": "Please ID this bag, used by Stanley Tucci in his Searching for Italy series.",
+        "url": "https://www.reddit.com/r/backpacks/comments/z1sqdu/please_id_this_bag_used_by_stanley_tucci_in_his/",
+        "selftext": "",
+        "author": "sirbago",
+        "score": 41,
+        "numComments": 13,
+        "created": 1669121221,
+        "comments": [
+          {
+            "author": "rtz13th",
+            "body": "Tumi Alpha Bravo Knox",
+            "score": 25,
+            "created": 1669121621,
+            "replies": [
+              {
+                "author": "sirbago",
+                "body": "Thanks. Looks and sounds like a great bag. Too bad it's on the pricey side, but not surprising.",
+                "score": 4,
+                "created": 1669122930
+              },
+              {
+                "author": "majornerd",
+                "body": "Just my luck, I finally know the bag and am just too late.  ;)",
+                "score": 3,
+                "created": 1669174748
+              }
+            ]
+          },
+          {
+            "author": "Masala-Dosage",
+            "body": "In a lot of train stations this would be a Searching to Get Pickpocketed bag- lots of external pockets &amp; worn on the back.",
+            "score": 6,
+            "created": 1669135018,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": -18,
+            "created": 1669124974,
+            "replies": [
+              {
+                "author": "SpambotSwatter",
+                "body": "/u/tiarapower is a karma-farming repost bot -- look at the post history.  Please downvote its comment and click the `report` button, selecting `Spam` then `Harmful bots`.  \n\nWith enough reports, the reddit algorithm will suspend this spammer.\n\n^(Mods; feel free to remove both our comments... ^^sorry)",
+                "score": 8,
+                "created": 1669134635
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/ujg1xsyopbq41.jpg?width=1080&crop=smart&auto=webp&s=249ef8e2be61bd501c70135dfeb03584ba71183d",
+      "thread": {
+        "title": "My EDC Backpacks: Tumi / Bellroy / ISM",
+        "url": "https://www.reddit.com/r/backpacks/comments/ftezxr/my_edc_backpacks_tumi_bellroy_ism/",
+        "selftext": "",
+        "author": "thematchalatte",
+        "score": 78,
+        "numComments": 16,
+        "created": 1585797862,
+        "comments": [
+          {
+            "author": "pdxleo",
+            "body": "Definitely fan of Bellroy but to me to me Tumi is long past it’s trendy days. And so bloody heavy. Metal zippers that scratch iPhones… I’m not sure where they’re going nowadays.",
+            "score": 10,
+            "created": 1585828504,
+            "replies": [
+              {
+                "author": "thematchalatte",
+                "body": "Yup I kinda agree about Tumi too. It was more of an impulse decision to buy it since I was looking for something a bit different. On second thoughts, I feel like the Tumi backpack has way more pockets than I needed for, and reading through the subreddit about Tumi, it gives me the idea that the brand is definitely not what it used to be. Oh well I'll probably return the Tumi backpack, and possibly add the Aer day pack to my collection.",
+                "score": 2,
+                "created": 1585835553
+              }
+            ]
+          },
+          {
+            "author": "majornerd",
+            "body": "Have to be honest. It took me forever to pony up for the tumult and the only thing I would change is the straps are a little small for a big fat guy. Otherwise I love the bag and even with that gripe I will be keeping the bag and using it for the foreseeable future. \n\n(Not now, but normally), I travel for work about 250 days a year and consult with the fortune 1000 and global governments regarding tech strategy, data strategy and digital transformation. I give you this information to provide context to my review. \n\n1.  It looks professional. This is not rare, but is a plus in my mind.  It is the standard “business traveler” bag and every security and airport/airline employee recognizes this. If you travel a lot thus helps in subtle ways.\n\n2.  It is well organized. I love pockets and organizers more than I should, but all of them add weight and change the structure of the bag.  The Tumi has a great balance between structure and lack thereof.\n\n3.  Just big enough that fully packed it is not too heavy. I have a tendency to carry too much crap. I’ve done a decent job of reducing what I carry to what I think is reasonable - and if I drop a couple of the things I take on planes I have enough space to put two standard liquor bottles in the bag along with my work EDC and tablet. This has come in handy more than once.\n\nI use Briggs and Riley suitcases (really just one) and can do 30 days in a suit with my roller bag and backpack.  I’ve spent a lot of time figuring out what works best and what doesn’t. I’ve gone through at least 30 bags and 10 suitcases to get to what works for me.  Could I improve it, maybe, but I’m not even looking right now. \n\nHappy to answer any questions or go into detail on exactly how, what and why.",
+            "score": 5,
+            "created": 1586321652,
+            "replies": [
+              {
+                "author": "thematchalatte",
+                "body": "Thanks for the comment!\n\nI already decided to return the Tumi backpack. First of all, I'm not even a frequent traveller. And the insane amount of pockets and organizers is totally unncessary and adds weight like you said. I only carry a few essential items on a daily basis, so Tumi is definitely overkill for me. I always found the luggage tag thing kinda cool though, maybe that's why I bought the backpack in the first place. Otherwise I'm not really that amazed by the backpack in general. Therefore I returned it.\n\nI ended up adding the AER day pack to my collection. I kinda like that subtle style more.",
+                "score": 1,
+                "created": 1586324200
+              }
+            ]
+          },
+          {
+            "author": "thematchalatte",
+            "body": "The Tumi one is my latest addition. Still wondering if I should keep it? \n\nI’ve been mostly rotating between my Bellroy and ISM backpacks. Bellroy is excellent for casual everyday use, whereas the ISM one is great when I like to look a bit more smart casual. The Aer day pack was also one of my top considerations, but wouldn’t serve much purpose if I had the Bellroy already.\n\nEDIT: I returned my Tumi backpack. Didn't think it was worth the price tag.",
+            "score": 4,
+            "created": 1585798063,
+            "replies": [
+              {
+                "author": "imlazyyy",
+                "body": "We have the same Bellroy. I love it. The foam at the back is so comfortable. I fill it up with a lot and it doesn’t even carry heavily. I wanna see how an Able Daily feels to me because they look and function similarly but I’m sticking with mine as long as I can.",
+                "score": 3,
+                "created": 1585802515
+              }
+            ]
+          },
+          {
+            "author": "JayWing_9",
+            "body": "I own the Tumi Nathan, which I think is the one you have in this picture. I enjoy all the pockets and compartments. Build quality is great and it keeps its shape and stands up on its own which is something not prominent in many bags. It also had an expansion zipper for more space when needed, like my gf's jacket lol. I got the Nathan in Blue Camo for $205 after taxes and shipping on eBay. I like it much more than the Aer Tech Pack v1. Tumi has a much better inerior liner. I believe the Aer Tech Pack v2 has better inner now (finally). My girlfriend owns the ISM backpack and she likes it alot.",
+            "score": 3,
+            "created": 1593502144,
+            "replies": []
+          },
+          {
+            "author": "Undrctrl_",
+            "body": "Got any links to the bellroy?",
+            "score": 1,
+            "created": 1585853383,
+            "replies": [
+              {
+                "author": "thematchalatte",
+                "body": " [https://bellroy.com/products/classic-backpack/nylon/black](https://bellroy.com/products/classic-backpack/nylon/black)",
+                "score": 2,
+                "created": 1585883241
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/ty2yfclcw7rc1.jpeg?width=1080&crop=smart&auto=webp&s=41fce51620311cd0ddf380cf9da5011b7bffe58f",
+      "thread": {
+        "title": "What’s the capacity of this guy?",
+        "url": "https://www.reddit.com/r/backpacks/comments/1bqieru/whats_the_capacity_of_this_guy/",
+        "selftext": "What would be tumi alpha bravo navigation backpack capacity when normal form and when expanded?\n\nThanks in advance ",
+        "author": "sastirandihu",
+        "score": 7,
+        "numComments": 7,
+        "created": 1711693758,
+        "comments": [
+          {
+            "author": "SilentC1969",
+            "body": "It is an excellent design but the retail price is unreasonable.  I am fortunate enough to have three items and got them all on sale on sale\nIn my view if the retail price is X, a fair price is 60-70% of X",
+            "score": 4,
+            "created": 1711705080,
+            "replies": []
+          },
+          {
+            "author": "UsedPage",
+            "body": "You’d probably get better specific information from contacting their support instead. I haven’t heard of this bag before so i’m not sure how many people have it and would be able to answer your question.",
+            "score": 2,
+            "created": 1711697441,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "This bag looks epic. But £500 is crazy! Do you know of any similar bags which are much cheaper?",
+            "score": 1,
+            "created": 1711698450,
+            "replies": []
+          },
+          {
+            "author": "UndisgestedCheeto",
+            "body": "www.google.com",
+            "score": 1,
+            "created": 1711720054,
+            "replies": [
+              {
+                "author": "sastirandihu",
+                "body": "Did the math using dimensions found on the website and also checked googled. Came out ~26L but looking at the images and videos it looks not more than 18L. Hence I asked",
+                "score": 3,
+                "created": 1711726317
+              }
+            ]
+          },
+          {
+            "author": "Droid1xy",
+            "body": "The TUMI Alpha Bravo Navigation Backpack offers a 26-liter capacity, ideal for daily commutes and travel. \n\nWritten by Microsoft Copilot.",
+            "score": 0,
+            "created": 1711698282,
+            "replies": []
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/fvdnl5cqmcre1.jpeg?width=1080&crop=smart&auto=webp&s=2a545afa04be8c8d90f6920fd091ca246d9ec2bb",
+      "thread": {
+        "title": "New Tumi Backpack",
+        "url": "https://www.reddit.com/r/ManyBaggers/comments/1jllt0a/new_tumi_backpack/",
+        "selftext": "I added a new Tumi Alpha Bravo Nomadic bag to my small collection recently for travel duty. Tumi doesn't seem to get a lot of love here, but I really like the organization it has and think it will work well for me.  ",
+        "author": "bobtheinvestor",
+        "score": 17,
+        "numComments": 10,
+        "created": 1743132115,
+        "comments": [
+          {
+            "author": "Pretty_Leg_8097",
+            "body": "That’s a gorgeous bag",
+            "score": 2,
+            "created": 1743221733,
+            "replies": []
+          },
+          {
+            "author": "Bot_Invader",
+            "body": "Are you able to make use of all the pockets? I like the design but not sure what to put into those.",
+            "score": 2,
+            "created": 1743258925,
+            "replies": [
+              {
+                "author": "bobtheinvestor",
+                "body": "Haven't used it on a trip yet, but I have an idea for everything. I have always used a tech pouch/organizer, but I think the front pocket will replace it and allow easier access.",
+                "score": 1,
+                "created": 1743296379
+              }
+            ]
+          },
+          {
+            "author": "C0DeZ3R0",
+            "body": "Sweet!",
+            "score": 2,
+            "created": 1743327269,
+            "replies": []
+          },
+          {
+            "author": "Short_Mention",
+            "body": "Solid purchase!\n\nTumi makes really good stuff. My dad’s been using his laptop briefcase for 14 years now. Had to replace the strap cuz the metal on the hooks was eaten away after years of use. In his eyes (and he’s pretty frugal), Tumi is worth it.\n\nIn general though they definitely come off as “affordable luxury”, and you do pay a bit more for the brand than the actual construction. Hence why people sneer at it. You can find comparable or better quality bags for near half the price.\n\nI love em tho",
+            "score": 1,
+            "created": 1743132878,
+            "replies": [
+              {
+                "author": "bobtheinvestor",
+                "body": "Thank you! I think this bag will be around for the long haul for me.",
+                "score": 1,
+                "created": 1743175526
+              }
+            ]
+          },
+          {
+            "author": "DownByTheRivr",
+            "body": "Tumi doesn’t get love because their prices are a straight ripoff. Hoping you didn’t pay full price. $725 for a ballistic nylon bag mass produced in China is a joke. Don’t get me wrong- it’s high quality, but isn’t any better than bags costing less than half that.",
+            "score": 0,
+            "created": 1743167443,
+            "replies": [
+              {
+                "author": "bobtheinvestor",
+                "body": "Don't get me wrong, I understand why Tumi doesn't get a ton of love, but you can make the same argument on just about any product because price is so subjective to preferences. A $5k designer bag is functionally similar to a Jansport bag from Wal-Mart. I was drawn to this one, so I bought it, and hopefully it works out for me.",
+                "score": 8,
+                "created": 1743175200
+              },
+              {
+                "author": "pixolin",
+                "body": "&gt; … mass produced in China …\n\nI wonder how this still is an argument while people don’t hesitate to pay high prices on iPhones made in China. \n\nTo my understanding China delivers what you ask for: Cheap and trashy if you wish, but also in highest quality if you’re willing to pay for it.\n\nWhen did we forget to judge the quality of a product by more than just its origin?",
+                "score": 1,
+                "created": 1744959143
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/f8t033rt5s4a1.jpg?width=1080&crop=smart&auto=webp&s=946f0a6bf2e3752f33b41206dac331d09747be6f",
+      "thread": {
+        "title": "Literally just got to the airport. I thought TUMI made good bags...",
+        "url": "https://www.reddit.com/r/Wellthatsucks/comments/zgjqes/literally_just_got_to_the_airport_i_thought_tumi/",
+        "selftext": "",
+        "author": "volcs0",
+        "score": 2010,
+        "numComments": 226,
+        "created": 1670551532,
+        "comments": [
+          {
+            "author": "BartFurglar",
+            "body": "Tumi used to be good, but now they just keep banking on the name they had established without backing it up. I stopped buying their products when they reduced their warranty several years ago. Now I buy Briggs &amp; Riley.",
+            "score": 388,
+            "created": 1670553555,
+            "replies": [
+              {
+                "author": "Elite199",
+                "body": "TIL people spend 600-750$ on a piece of luggage.",
+                "score": 163,
+                "created": 1670572772
+              },
+              {
+                "author": "gob_magic",
+                "body": "Highly recommend Briggs &amp; Riley. The features are usable and simple. Quality is perfect. Lasted 5 years already, and still feels brand new",
+                "score": 59,
+                "created": 1670558373
+              }
+            ]
+          },
+          {
+            "author": "gigapoctopus",
+            "body": "Samsonite owns Tumi.  I do think that they keep the factories separate still, but they have openly spoken about sharing technology - especially plastics - from Samsonite to Tumi.   The company names are kept separate to make people feel like they are buying a higher end piece of luggage and not a Samsonite.",
+            "score": 334,
+            "created": 1670554324,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "[removed]",
+                "score": 190,
+                "created": 1670577700
+              },
+              {
+                "author": "Barren_Phoenix",
+                "body": "I just bought a Samsonite (discounted from Ross) and took it on a trip. We were happy with the quality, except the handle felt a little flimsy. The wheels moved smoothly even with a good amount of weight on it.\n\nIdk much about bags, but I wouldn't spend more than $150 on a suitcase. I spent $70 on the Samsonite from Ross and felt it was worth it, but if this bag eventually breaks, what recommendations would you have for that price range?",
+                "score": 29,
+                "created": 1670588876
+              }
+            ]
+          },
+          {
+            "author": "Stalker_Bait",
+            "body": "In the 90’s and early 2000’s Tumi was the Mercedes of bags. \n\nBut then Samsonite bought them in 2016 and the branding recognition went *up* and the quality went *down*.",
+            "score": 192,
+            "created": 1670556653,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "Interesting. I would have guessed earlier because I noticed they started to be cheaper products around 2010 maybe 2012 at the latest.",
+                "score": 29,
+                "created": 1670559012
+              }
+            ]
+          },
+          {
+            "author": "Deep_Combination6420",
+            "body": "That bag retails for like 900 bucks 😬",
+            "score": 105,
+            "created": 1670551902,
+            "replies": [
+              {
+                "author": "TinyRascalSaurus",
+                "body": "For real? Why is it so expensive?",
+                "score": 41,
+                "created": 1670552812
+              },
+              {
+                "author": "[deleted]",
+                "body": "Who the fuck buys a suitcase for 900?",
+                "score": 16,
+                "created": 1670562663
+              }
+            ]
+          },
+          {
+            "author": "agan4525",
+            "body": "I’m certain they would replace that .. I’d hope but either way that sucks for your current trip!",
+            "score": 22,
+            "created": 1670552389,
+            "replies": [
+              {
+                "author": "volcs0",
+                "body": "When I get back to ORD, I will take it into the store. Otherwise, I would need to pay to ship it back. No TUMI stores at my destination.",
+                "score": 29,
+                "created": 1670553275
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://preview.redd.it/0nkkf0naj5f61.jpg?width=1080&crop=smart&auto=webp&s=16faf13239199e105d4e31b025b4411121a1713b",
+      "thread": {
+        "title": "Can Anyone Tell Me What Collection This Tumi Bag is From? I'm Trying to Research It's Value and I Can't Look Up Similar Bags Without Knowing What They Are Called. Thank You!",
+        "url": "https://www.reddit.com/r/backpacks/comments/lba7m3/can_anyone_tell_me_what_collection_this_tumi_bag/",
+        "selftext": "",
+        "author": "Jordan515a",
+        "score": 3,
+        "numComments": 5,
+        "created": 1612309800,
+        "comments": [
+          {
+            "author": "bdh105",
+            "body": "Looks like a Tumi Alpha leather brief pack.  But it should have a tracker ID number on a little plate inside that you can lookup.",
+            "score": 1,
+            "created": 1612310491,
+            "replies": [
+              {
+                "author": "Jordan515a",
+                "body": "Thanks for the reply. That metal tag on mine has a phone number then a 20 digit number and below that it has an 8 digit combo of numbers and two letters (99382HKO) whenever I search either of these numbers in Google I don't get results. Any ideas?",
+                "score": 1,
+                "created": 1612311388
+              }
+            ]
+          },
+          {
+            "author": "IslandBoy94",
+            "body": "Hey, this looks like an older Alpha Bravo Knox backpack or possible from the Fremont Collection. But yes, you can call your local Tumi store and see what the bag is. Also, if you’re keeping it you can go get it monogrammed.",
+            "score": 1,
+            "created": 1612318008,
+            "replies": []
+          },
+          {
+            "author": "TANjarinE",
+            "body": "I use to work for Tumi.  HKO is the color code for Hickory (Black/Brown) the style of the luggage tag is definitely Alpha Bravo collection, older Knox backpack.",
+            "score": 1,
+            "created": 1612931919,
+            "replies": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+.backpack-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.backpack-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.backpack-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.2s;
+}
+
+.backpack-image:hover {
+  transform: scale(1.05);
+}
+
+.loading,
+.no-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  color: #6b7280;
+}
+
+.backpack-details {
+  padding: 1rem;
+}
+
+.description {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.capacity,
+.price {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.features {
+  margin-top: 2rem;
+}
+
+.features h2 {
+  margin-bottom: 1rem;
+}
+
+.features ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+.features li {
+  margin-bottom: 0.5rem;
+} 

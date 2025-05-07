@@ -1,0 +1,1620 @@
+{
+  "backpacks": [
+    {
+      "name": "Gregory Border 25",
+      "sentiment": 16.6,
+      "num_mentions": 189,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "ROFMIA Daypack V2",
+      "sentiment": 15.7,
+      "num_mentions": 387,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Action X30",
+      "sentiment": 15.4,
+      "num_mentions": 288,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Heimplanet Transit Line Travel Pack",
+      "sentiment": 14,
+      "num_mentions": 271,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Explore V2 35L",
+      "sentiment": 14,
+      "num_mentions": 384,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Gregory Border 35",
+      "sentiment": 13.8,
+      "num_mentions": 745,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Lems Daypack",
+      "sentiment": 13,
+      "num_mentions": 703,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Eagle Creek Global Companion 40L",
+      "sentiment": 12.9,
+      "num_mentions": 136,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Cotopaxi Allpa 42L",
+      "sentiment": 12.7,
+      "num_mentions": 696,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Axiom Gear 24L",
+      "sentiment": 12.5,
+      "num_mentions": 22,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Lems Travel Pack",
+      "sentiment": 12.3,
+      "num_mentions": 665,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Matador SEG42 Travel Pack",
+      "sentiment": 11.9,
+      "num_mentions": 797,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "REI Ruckpack 28",
+      "sentiment": 11.8,
+      "num_mentions": 647,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Thule Landmark 40L",
+      "sentiment": 11.8,
+      "num_mentions": 527,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Alpaka Elements Backpack Pro",
+      "sentiment": 11.7,
+      "num_mentions": 377,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Workpack",
+      "sentiment": 11.7,
+      "num_mentions": 322,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "eBags Professional Weekender",
+      "sentiment": 11.4,
+      "num_mentions": 585,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Sandqvist Zack",
+      "sentiment": 11.4,
+      "num_mentions": 176,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Recycled Firefighter 24 Hour",
+      "sentiment": 11.3,
+      "num_mentions": 558,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Weekender Plus",
+      "sentiment": 11.2,
+      "num_mentions": 768,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Matador SEG28",
+      "sentiment": 11.1,
+      "num_mentions": 537,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Backpack 28L",
+      "sentiment": 11,
+      "num_mentions": 469,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tortuga Travel Backpack 40L",
+      "sentiment": 11,
+      "num_mentions": 591,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Matador Beast28",
+      "sentiment": 10.9,
+      "num_mentions": 449,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Workpack 20L",
+      "sentiment": 10.8,
+      "num_mentions": 486,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Matador Beast28 Technical Pack",
+      "sentiment": 10.8,
+      "num_mentions": 577,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Backpack Plus",
+      "sentiment": 10.7,
+      "num_mentions": 653,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Deuter Giga 28",
+      "sentiment": 10.6,
+      "num_mentions": 259,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Travel Backpack 65L",
+      "sentiment": 10.6,
+      "num_mentions": 429,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Fjällräven Kånken 20",
+      "sentiment": 10.5,
+      "num_mentions": 373,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Fjällräven Raven 28",
+      "sentiment": 10.5,
+      "num_mentions": 282,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Gravel Explorer Plus",
+      "sentiment": 10.5,
+      "num_mentions": 551,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Backpack",
+      "sentiment": 10.4,
+      "num_mentions": 513,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tropicfeel Nest",
+      "sentiment": 10.4,
+      "num_mentions": 671,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Gregory Nano 22",
+      "sentiment": 10.3,
+      "num_mentions": 423,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Matador SEG45",
+      "sentiment": 10.3,
+      "num_mentions": 415,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Thule Crossover 32L",
+      "sentiment": 10.3,
+      "num_mentions": 482,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Boundary Supply Prima System",
+      "sentiment": 10.2,
+      "num_mentions": 581,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "CabinZero Classic 36L",
+      "sentiment": 10.2,
+      "num_mentions": 593,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tortuga Setout Divide",
+      "sentiment": 10.2,
+      "num_mentions": 380,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Gravel Explorer Mini",
+      "sentiment": 10.1,
+      "num_mentions": 380,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mission Workshop Vandal",
+      "sentiment": 10.1,
+      "num_mentions": 313,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Able Carry Daily",
+      "sentiment": 10,
+      "num_mentions": 398,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Nomad Lane Bento Bag Pro",
+      "sentiment": 10,
+      "num_mentions": 101,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tropicfeel Shell",
+      "sentiment": 10,
+      "num_mentions": 363,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Nomatic Travel Pack 40L",
+      "sentiment": 9.9,
+      "num_mentions": 766,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Patagonia Black Hole 40L",
+      "sentiment": 9.9,
+      "num_mentions": 80,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Alchemy Equipment 30L Zip Access",
+      "sentiment": 9.7,
+      "num_mentions": 27,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Nomatic Backpack 20L",
+      "sentiment": 9.7,
+      "num_mentions": 255,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Timbuk2 Division",
+      "sentiment": 9.7,
+      "num_mentions": 626,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Eagle Creek Tour Travel Pack 40L",
+      "sentiment": 9.6,
+      "num_mentions": 248,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Ortlieb Commuter Daypack City",
+      "sentiment": 9.6,
+      "num_mentions": 133,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Action X50 V2",
+      "sentiment": 9.6,
+      "num_mentions": 61,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Alpaka Go Sling Pro",
+      "sentiment": 9.5,
+      "num_mentions": 650,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Lite Travel Backpack 38L",
+      "sentiment": 9.5,
+      "num_mentions": 341,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Kelty Redwing 44",
+      "sentiment": 9.5,
+      "num_mentions": 394,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Wandrd Duo Daypack",
+      "sentiment": 9.5,
+      "num_mentions": 362,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Duffel 40L",
+      "sentiment": 9.4,
+      "num_mentions": 266,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Black Ember Citadel R2",
+      "sentiment": 9.4,
+      "num_mentions": 1526,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Haglöfs Vide Medium",
+      "sentiment": 9.4,
+      "num_mentions": 105,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "REI Flash 22",
+      "sentiment": 9.4,
+      "num_mentions": 285,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Explore V2 25L",
+      "sentiment": 9.4,
+      "num_mentions": 106,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Topo Designs Global Travel Bag 30L",
+      "sentiment": 9.4,
+      "num_mentions": 295,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tortuga Setout 45L",
+      "sentiment": 9.4,
+      "num_mentions": 290,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Boundary Supply Errant Pack",
+      "sentiment": 9.3,
+      "num_mentions": 828,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Action X50",
+      "sentiment": 9.3,
+      "num_mentions": 98,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Duffel 60L",
+      "sentiment": 9.2,
+      "num_mentions": 219,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Greenroom136 Rainmaker",
+      "sentiment": 9.2,
+      "num_mentions": 405,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Patagonia Refugio 26L",
+      "sentiment": 9.2,
+      "num_mentions": 582,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Travel Duffel 65L",
+      "sentiment": 9.2,
+      "num_mentions": 568,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tortuga Outbreaker 35L",
+      "sentiment": 9.2,
+      "num_mentions": 181,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "ULA Dragonfly Ultra",
+      "sentiment": 9.2,
+      "num_mentions": 298,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Lite Travel Backpack 30L",
+      "sentiment": 9.1,
+      "num_mentions": 360,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Almond Oak Backpack",
+      "sentiment": 9,
+      "num_mentions": 393,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Almond Oak Travel Pack",
+      "sentiment": 9,
+      "num_mentions": 369,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Black Ember Forge Max",
+      "sentiment": 9,
+      "num_mentions": 226,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Deuter Transit 50",
+      "sentiment": 9,
+      "num_mentions": 520,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Sandqvist Bernt",
+      "sentiment": 9,
+      "num_mentions": 43,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Explore V2 30L",
+      "sentiment": 9,
+      "num_mentions": 147,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Aer Flight Pack 3",
+      "sentiment": 8.9,
+      "num_mentions": 375,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Alchemy Equipment 35L Roll Top",
+      "sentiment": 8.9,
+      "num_mentions": 164,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Transit Duffel",
+      "sentiment": 8.9,
+      "num_mentions": 503,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Weekender",
+      "sentiment": 8.9,
+      "num_mentions": 526,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Cotopaxi Allpa 28L",
+      "sentiment": 8.9,
+      "num_mentions": 394,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Haglöfs Vide Medium",
+      "sentiment": 8.9,
+      "num_mentions": 94,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Action X30 V2",
+      "sentiment": 8.9,
+      "num_mentions": 107,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Thule Subterra 34L",
+      "sentiment": 8.9,
+      "num_mentions": 558,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Able Carry Max",
+      "sentiment": 8.8,
+      "num_mentions": 492,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Aer City Pack Pro",
+      "sentiment": 8.8,
+      "num_mentions": 616,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Studio Backpack",
+      "sentiment": 8.8,
+      "num_mentions": 508,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mission Workshop Rhake",
+      "sentiment": 8.8,
+      "num_mentions": 209,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Action X70 V2",
+      "sentiment": 8.8,
+      "num_mentions": 76,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tom Bihn Techonaut 30",
+      "sentiment": 8.8,
+      "num_mentions": 362,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Lite Daypack",
+      "sentiment": 8.7,
+      "num_mentions": 335,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Weekender 35L",
+      "sentiment": 8.7,
+      "num_mentions": 405,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "CabinZero Military 28L",
+      "sentiment": 8.7,
+      "num_mentions": 195,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mystery Ranch Urban Assault 21",
+      "sentiment": 8.7,
+      "num_mentions": 231,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Nomad Lane Bento Bag",
+      "sentiment": 8.7,
+      "num_mentions": 322,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Daylite Plus",
+      "sentiment": 8.7,
+      "num_mentions": 471,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Dagne Dover Landon Carryall",
+      "sentiment": 8.6,
+      "num_mentions": 384,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Evergoods CHZ22",
+      "sentiment": 8.6,
+      "num_mentions": 263,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Timbuk2 Never Check",
+      "sentiment": 8.6,
+      "num_mentions": 590,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Wandrd PRVKE 31L",
+      "sentiment": 8.6,
+      "num_mentions": 321,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "DSPTCH Ruckpack",
+      "sentiment": 8.5,
+      "num_mentions": 450,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Goruck GR1 21L",
+      "sentiment": 8.5,
+      "num_mentions": 436,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Millican Smith Roll Pack 25L",
+      "sentiment": 8.5,
+      "num_mentions": 309,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mystery Ranch Urban Assault 18",
+      "sentiment": 8.5,
+      "num_mentions": 474,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "REI Trail 25",
+      "sentiment": 8.5,
+      "num_mentions": 383,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "REI Trail 40",
+      "sentiment": 8.5,
+      "num_mentions": 356,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "The North Face Base Camp Voyager 32L",
+      "sentiment": 8.5,
+      "num_mentions": 292,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Haglöfs Tight Pro Large",
+      "sentiment": 8.4,
+      "num_mentions": 190,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Haglöfs Tight Pro Large",
+      "sentiment": 8.4,
+      "num_mentions": 192,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Incase Icon Backpack",
+      "sentiment": 8.4,
+      "num_mentions": 692,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Daylite Plus 20L",
+      "sentiment": 8.4,
+      "num_mentions": 566,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Rains Rolltop Backpack",
+      "sentiment": 8.4,
+      "num_mentions": 949,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "ROFMIA Backpack V2",
+      "sentiment": 8.4,
+      "num_mentions": 201,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Shimoda Action X70",
+      "sentiment": 8.4,
+      "num_mentions": 144,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "The North Face Borealis",
+      "sentiment": 8.4,
+      "num_mentions": 62,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Aer Travel Pack 3 Small",
+      "sentiment": 8.3,
+      "num_mentions": 301,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Aer Travel Pack 3 X-Pac",
+      "sentiment": 8.3,
+      "num_mentions": 816,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Arc'teryx Granville 16",
+      "sentiment": 8.3,
+      "num_mentions": 485,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Classic Backpack Plus",
+      "sentiment": 8.3,
+      "num_mentions": 240,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Matador Freerain 24",
+      "sentiment": 8.3,
+      "num_mentions": 310,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Matador Freerain 32",
+      "sentiment": 8.3,
+      "num_mentions": 344,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Minaal Carry-on 2.0",
+      "sentiment": 8.3,
+      "num_mentions": 356,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Farpoint 40",
+      "sentiment": 8.3,
+      "num_mentions": 695,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Patagonia Black Hole 25L",
+      "sentiment": 8.3,
+      "num_mentions": 300,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "The North Face Recon",
+      "sentiment": 8.3,
+      "num_mentions": 416,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Aer Travel Pack 3 X-Pac",
+      "sentiment": 8.2,
+      "num_mentions": 808,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Alpha One Niner Whitley",
+      "sentiment": 8.2,
+      "num_mentions": 410,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "eBags TLS Mother Lode Weekender",
+      "sentiment": 8.2,
+      "num_mentions": 142,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Remote Equipment Alpha 31",
+      "sentiment": 8.2,
+      "num_mentions": 190,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tumi Alpha Bravo Search",
+      "sentiment": 8.2,
+      "num_mentions": 274,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Venture Backpack",
+      "sentiment": 8.1,
+      "num_mentions": 396,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Evergoods CPL24",
+      "sentiment": 8.1,
+      "num_mentions": 755,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mountainsmith Approach 35",
+      "sentiment": 8.1,
+      "num_mentions": 378,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mystery Ranch 2 Day Assault",
+      "sentiment": 8.1,
+      "num_mentions": 539,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Samsonite Tectonic 2",
+      "sentiment": 8.1,
+      "num_mentions": 295,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tom Bihn Synapse 25",
+      "sentiment": 8.1,
+      "num_mentions": 198,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Axiom Gear 36L",
+      "sentiment": 8,
+      "num_mentions": 123,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Tokyo Totepack",
+      "sentiment": 8,
+      "num_mentions": 270,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Chrome Industries Urban Ex 20L",
+      "sentiment": 8,
+      "num_mentions": 173,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Incase EO Travel Backpack",
+      "sentiment": 8,
+      "num_mentions": 203,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mystery Ranch Urban Assault 24",
+      "sentiment": 8,
+      "num_mentions": 705,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Rains Backpack",
+      "sentiment": 8,
+      "num_mentions": 403,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Arc'teryx Granville 16",
+      "sentiment": 7.9,
+      "num_mentions": 454,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Cotopaxi Batac 24L",
+      "sentiment": 7.9,
+      "num_mentions": 205,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Porter 30L",
+      "sentiment": 7.9,
+      "num_mentions": 446,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "ULA Circuit",
+      "sentiment": 7.9,
+      "num_mentions": 293,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Black Diamond Creek 20",
+      "sentiment": 7.8,
+      "num_mentions": 506,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Defy Bags Recon",
+      "sentiment": 7.8,
+      "num_mentions": 198,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Kelty Redwing 32",
+      "sentiment": 7.8,
+      "num_mentions": 248,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Millican Fraser Rucksack 32L",
+      "sentiment": 7.8,
+      "num_mentions": 42,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Minaal Daily 2.0",
+      "sentiment": 7.8,
+      "num_mentions": 440,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Farpoint 55L",
+      "sentiment": 7.8,
+      "num_mentions": 641,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Everyday Sling 6L",
+      "sentiment": 7.8,
+      "num_mentions": 256,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tom Bihn Synik 30",
+      "sentiment": 7.8,
+      "num_mentions": 473,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Vaude Wizard 30+4",
+      "sentiment": 7.8,
+      "num_mentions": 218,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Goruck GR1 26L",
+      "sentiment": 7.7,
+      "num_mentions": 199,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Kelty Asher 45",
+      "sentiment": 7.7,
+      "num_mentions": 138,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Daylite 26+6",
+      "sentiment": 7.7,
+      "num_mentions": 719,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Patagonia Black Hole 32L",
+      "sentiment": 7.7,
+      "num_mentions": 248,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Côte&Ciel Nile",
+      "sentiment": 7.6,
+      "num_mentions": 257,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Côte&Ciel Nile",
+      "sentiment": 7.6,
+      "num_mentions": 251,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Travel Duffel 35L",
+      "sentiment": 7.6,
+      "num_mentions": 311,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Arc'teryx Granville 25",
+      "sentiment": 7.5,
+      "num_mentions": 663,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Arc'teryx Granville 25",
+      "sentiment": 7.5,
+      "num_mentions": 663,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Dagne Dover Dakota Backpack",
+      "sentiment": 7.5,
+      "num_mentions": 223,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Kelty Asher 25",
+      "sentiment": 7.5,
+      "num_mentions": 200,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Daylite 26+6",
+      "sentiment": 7.5,
+      "num_mentions": 722,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tom Bihn Synik 22",
+      "sentiment": 7.5,
+      "num_mentions": 521,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Evergoods CHZ26",
+      "sentiment": 7.4,
+      "num_mentions": 42,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mountain Hardwear Scrambler 30",
+      "sentiment": 7.4,
+      "num_mentions": 28,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Topo Designs Core Pack",
+      "sentiment": 7.4,
+      "num_mentions": 262,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Côte&Ciel Nile",
+      "sentiment": 7.3,
+      "num_mentions": 131,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Eastpak Out Of Office",
+      "sentiment": 7.3,
+      "num_mentions": 500,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Lowe Alpine AirZone Pro 30",
+      "sentiment": 7.3,
+      "num_mentions": 142,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mission Workshop Fitzroy",
+      "sentiment": 7.3,
+      "num_mentions": 208,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Red Oxx Air Boss",
+      "sentiment": 7.3,
+      "num_mentions": 150,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tom Bihn Aeronaut 45",
+      "sentiment": 7.3,
+      "num_mentions": 319,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Everyday Backpack 30L",
+      "sentiment": 7.2,
+      "num_mentions": 269,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Everyday Sling 3L",
+      "sentiment": 7.2,
+      "num_mentions": 112,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Travel Backpack 30L",
+      "sentiment": 7.2,
+      "num_mentions": 545,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Red Oxx Metro Backpack",
+      "sentiment": 7.2,
+      "num_mentions": 80,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Vaude Citygo 23",
+      "sentiment": 7.2,
+      "num_mentions": 60,
+      "pros_count": 2,
+      "cons_count": 3
+    },
+    {
+      "name": "Black Diamond Stonehauler 30",
+      "sentiment": 7.1,
+      "num_mentions": 95,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Jack Wolfskin Berkeley",
+      "sentiment": 7.1,
+      "num_mentions": 101,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mountain Hardwear Camp 4 40",
+      "sentiment": 7.1,
+      "num_mentions": 724,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Everyday Backpack 20L",
+      "sentiment": 7.1,
+      "num_mentions": 240,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Everyday Backpack Zip 15L",
+      "sentiment": 7.1,
+      "num_mentions": 485,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Kelty Asher 65",
+      "sentiment": 7,
+      "num_mentions": 171,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Red Oxx C-Ruck",
+      "sentiment": 7,
+      "num_mentions": 316,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Bellroy Apex Backpack",
+      "sentiment": 6.9,
+      "num_mentions": 369,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Chrome Industries Barrage Cargo",
+      "sentiment": 6.9,
+      "num_mentions": 350,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mammut Seon Courier",
+      "sentiment": 6.9,
+      "num_mentions": 222,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Travel Backpack 45L",
+      "sentiment": 6.9,
+      "num_mentions": 361,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Côte&Ciel Isar Large",
+      "sentiment": 6.8,
+      "num_mentions": 783,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Côte&Ciel Isar Large",
+      "sentiment": 6.8,
+      "num_mentions": 796,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Fjällräven Kånken 17",
+      "sentiment": 6.8,
+      "num_mentions": 445,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Fjällräven Kånken 17L",
+      "sentiment": 6.8,
+      "num_mentions": 672,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "JanSport Right Pack",
+      "sentiment": 6.8,
+      "num_mentions": 246,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Lowe Alpine AirZone Trail 35",
+      "sentiment": 6.8,
+      "num_mentions": 22,
+      "pros_count": 3,
+      "cons_count": 2
+    },
+    {
+      "name": "Mountain Hardwear Scrambler 35",
+      "sentiment": 6.8,
+      "num_mentions": 230,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Peak Design Everyday Backpack Zip 20L",
+      "sentiment": 6.8,
+      "num_mentions": 378,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Black Diamond Stonehauler 45",
+      "sentiment": 6.7,
+      "num_mentions": 56,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Herschel Settlement",
+      "sentiment": 6.7,
+      "num_mentions": 153,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Ortlieb Velocity",
+      "sentiment": 6.7,
+      "num_mentions": 214,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "3V Gear Velox II",
+      "sentiment": 6.6,
+      "num_mentions": 338,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Fjällräven Kånken 17",
+      "sentiment": 6.6,
+      "num_mentions": 457,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Goruck GR2 40L",
+      "sentiment": 6.6,
+      "num_mentions": 260,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "JanSport SuperBreak",
+      "sentiment": 6.6,
+      "num_mentions": 242,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Mountainsmith Approach 25",
+      "sentiment": 6.6,
+      "num_mentions": 268,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Red Oxx Metro",
+      "sentiment": 6.6,
+      "num_mentions": 128,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "3V Gear Paratus",
+      "sentiment": 6.5,
+      "num_mentions": 199,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Herschel Little America",
+      "sentiment": 6.4,
+      "num_mentions": 175,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Kelty Asher 35",
+      "sentiment": 6.4,
+      "num_mentions": 345,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Tumi Voyageur Calais",
+      "sentiment": 6.4,
+      "num_mentions": 481,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Heimplanet Monolith Daypack",
+      "sentiment": 6.3,
+      "num_mentions": 117,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Chrome Industries Vega 25",
+      "sentiment": 6.2,
+      "num_mentions": 488,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Eastpak Padded Pak'r",
+      "sentiment": 6.2,
+      "num_mentions": 903,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Eastpak Padded Pak'r",
+      "sentiment": 6.2,
+      "num_mentions": 881,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Jack Wolfskin TRT 32 Pack",
+      "sentiment": 6.2,
+      "num_mentions": 29,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Kelty Asher 55",
+      "sentiment": 6.2,
+      "num_mentions": 193,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Samsonite Xenon 3.0",
+      "sentiment": 5.5,
+      "num_mentions": 194,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Farpoint 55",
+      "sentiment": 5.4,
+      "num_mentions": 21,
+      "pros_count": 0,
+      "cons_count": 0
+    },
+    {
+      "name": "ULA Atlas",
+      "sentiment": 5.4,
+      "num_mentions": 326,
+      "pros_count": 3,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Porter 30",
+      "sentiment": 5.2,
+      "num_mentions": 26,
+      "pros_count": 2,
+      "cons_count": 3
+    },
+    {
+      "name": "Osprey Porter 46",
+      "sentiment": 5.2,
+      "num_mentions": 22,
+      "pros_count": 1,
+      "cons_count": 3
+    },
+    {
+      "name": "Mammut Xeron Flip 22",
+      "sentiment": 5,
+      "num_mentions": 0,
+      "pros_count": 0,
+      "cons_count": 0
+    }
+  ],
+  "summary": {
+    "total_backpacks": 229,
+    "average_sentiment": 8.660262008733623,
+    "total_mentions": 83192,
+    "highest_sentiment": {
+      "name": "Gregory Border 25",
+      "score": 16.6
+    },
+    "most_discussed": {
+      "name": "Black Ember Citadel R2",
+      "mentions": 1526
+    }
+  }
+}
