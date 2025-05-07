@@ -14,9 +14,12 @@ const Debug = () => (
   </div>
 );
 
+// Get the base URL from the environment or use the default
+const baseUrl = import.meta.env.VITE_BASE_URL || '/onebag-explorer/';
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={baseUrl}>
       <Routes>
         <Route path="/" element={<OneBagHomepage />} />
         <Route path="/pack/:id" element={<BackpackPage />} />
