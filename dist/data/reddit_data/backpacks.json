@@ -1,0 +1,16 @@
+{
+  "backpacks": [
+    {
+      "name": "3V Gear Paratus",
+      "description": "A versatile tactical backpack",
+      "capacity": "35L",
+      "price": "$89.95"
+    },
+    {
+      "name": "Able Carry Daily",
+      "description": "Minimalist everyday carry backpack",
+      "capacity": "20L",
+      "price": "$148.00"
+    }
+  ]
+} 
