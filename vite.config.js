@@ -22,6 +22,8 @@ export default defineConfig({
   // Add better error handling
   build: {
     sourcemap: true,
+    outDir: 'dist',
+    assetsDir: 'assets',
     rollupOptions: {
       output: {
         manualChunks: undefined
